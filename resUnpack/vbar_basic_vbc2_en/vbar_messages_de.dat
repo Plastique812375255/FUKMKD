@@ -1,0 +1,123 @@
+0;1;Alles in Ordnung (10sec)
+1;1;Kaltstart
+2;4;Warmstart
+3;1;Kalibrierung beendet
+4;2;Autotrim aktiviert
+5;2;Bluetooth Modul Erkannt
+6;2;Bluetooth Modul Init OK
+7;3;Bluetooth Modul Fehler
+8;2;Antenne umgeschaltet
+9;4;EEprom Schreibfehler
+10;4;Interne 3.3V Spannung unterschritten
+11;4;Interne 2.5V Spannung unterschritten
+12;3;Reset Grund: Watchdog
+13;3;Reset Grund: Extern
+14;1;Reset Grund: Power On
+15;1;Bank 1 geladen
+16;1;Bank 2 geladen
+17;1;Bank 3 geladen
+18;1;Bank 4 geladen
+20;4;Sensor Verbindung gestoert
+21;3;Sensor Pruefsummen Fehler
+22;3;Initialisierung wird wiederholt...
+23;3;Pruefsummenfehler bei der PC Schnittstelle
+24;4;Digital Empfaenger Daten Ueberlauf
+25;4;Single Line Empfaenger Daten Ueberlauf
+26;4;Single Line Reciver liefert ungueltiges Signal
+27;3;Der Zyklische Ring ist aktiv
+28;2;Der Zyklische Ring wurde beruehrt
+29;4;Ungueltige Paketgroesse von Satelliten
+30;4;RC Eingangssignal Pitch fehlt
+31;4;RC Eingangssignal Roll fehlt
+32;4;RC Eingangssignal Nick fehlt
+33;4;RC Eingangssignal Heck fehlt
+34;4;RC Eingangssignal Aux fehlt
+35;2;Modem Chip Neusynchronisierung
+36;1;Firmware Update
+37;3;Statischer Einschlag
+38;3;RC Eingangspaket verloren
+39;4;RC Failsafe aktiviert
+40;4;RC Kanal 1 Signal ungueltig
+41;4;RC Kanal 2 Signal ungueltig
+42;4;RC Kanal 3 Signal ungueltig
+43;4;RC Kanal 4 Signal ungueltig
+44;3;RC Kanal 5 Signal ungueltig
+45;4;RC Kanal 6 Signal ungueltig
+50;2;Testmode Aktiviert
+51;2;Testmode Timeout
+52;2;Testmode Beendet
+53;1;Backup nicht bereit
+55;4;Satelliten Paketfehler
+56;1;Externer Gyro Sensor erkannt und betriebsbereit
+57;1;Externer Gyro Sensor ausgefallen
+60;2;Erhoehtes Vibrationsniveau
+61;3;Starke Vibration
+62;4;Gefaehrliche Vibrationen
+70;3;Abnormaler Ruhewert des Roll RC Kanals
+71;3;Abnormaler Ruhewert des Nick RC Kanals
+72;3;Abnormaler Ruhewert des Heck RC Kanals
+73;4;Abnormaler Ruhewert des Roll Sensors
+74;4;Abnormaler Ruhewert des Nick Sensors
+75;4;Abnormaler Ruhewert des Heck Sensors
+76;4;Roll Sensor ist ausserhalb des Messbereichs
+77;4;Nick Sensor ist ausserhalb des Messbereichs
+78;3;Roll Sensor liefert kein Signal
+79;3;Nick Sensor liefert kein Signal
+80;3;Heck Sensor liefert kein Signal
+81;3;Spannungseinbruch unter 4.5V
+82;4;Spannungseinbruch unter 4.0V
+83;4;Spannungseinbruch unter 3.5V
+84;4;IMU Sensor liefert keine Daten
+85;4;IMU Sensor hat Ausgabe eingestellt
+86;4;IMU Daten sind alle leer
+87;4;IMU Sensor Fehler
+88;4;Horizontal Kalibrierung fehlerhaft
+89;4;Horizontal Kalibrierung Durchgefuehrt
+90;3;Single Line Polaritaet gewechselt 0
+91;3;Single Line Polaritaet gewechselt 1
+92;3;Single Line Glitched
+93;2;Initializing mit virtueller Z Achse
+94;3;IMU Sensor Z Achse haengt
+95;2;IMU Sensor Z Achse hat sich geloest
+96;4;Flash Speicher Zugriff fehlerhaft
+97;4;Telemtrie Ueberstrom
+100;2;Quick Programmierungs Modus aktiviert (3 Pitch Zucker)
+101;2;Der Temperatur Kalibriermodus wurde aktiviert
+102;2;Die Temperaturkalibrierung wurde erfolgreich durchgefuehrt
+103;2;Die Temperaturkalibrierung wurde mit einem Fehler beendet STRING
+110;2;Rettung Start
+112;2;Rettung Ende
+113;2;Rettung vom Pilot Uebersteuert
+114;2;Beginner/Trainer Modus Start
+115;2;Beginner/Trainer Modus Ende
+120;2;Drehzahlregler auf AUS geschaltet
+121;2;Drehzahlregler auf Idle Land geschaltet
+122;2;Drehzahlregler auf Idle geschaltet
+123;2;Drehzahlregler in Motoreinstellmodus
+124;2;Drehzahlregler auf AN geschaltet
+130;3;Drehzahlregler auf Vollgas
+131;2;Kein Signal vom Drehzahlsensor
+132;4;Fehlerhaftes Signal vom Drehzahlsensor
+133;2;Drehzahlregler ist am unteren Gaslimit
+134;2;Drehzahlsensor schaltet nicht sicher um
+135;1;Motorschalter Motor Aus
+136;1;Motorschalter Leelauf Landen
+137;1;Motorschalter Leerlauf Durchstarten
+138;1;Motorschalter Motoreinstellen
+139;1;Motorschalter Motor An
+140;1;Max Limit Sensor Roll
+141;1;Max Limit Sensor Nick
+142;1;Max Limit Sensor Heck
+143;1;Min Limit Sensor Roll
+144;1;Min Limit Sensor Nick
+145;1;Min Limit Sensor Heck
+150;2;Radio synchronisation verloren
+151;2;Radio synchronisation ok
+152;4;Parameter Eprom Access Fehler
+153;4;Parameter Eprom Access Fehler
+154;4;Parameter Eprom Access Fehler
+155;1;USB Verbindung aktiviert
+156;1;USB Verbindung getrennt
+171;1;Highrange Sensor Abfrage Fehler
+172;1;Highrange Sensor Ereignis aufgetreten
+255;0---------- Vbar Verbunden -----------

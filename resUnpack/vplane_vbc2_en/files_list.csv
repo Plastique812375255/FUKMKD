@@ -1,0 +1,17 @@
+文件名,偏移量,大小(字节)
+plane10.bmp,0,89738
+plane10_b.bmp,89738,89666
+plane11.bmp,179404,89738
+plane11_b.bmp,269142,89666
+plane15.bmp,358808,89738
+plane15_b.bmp,448546,89666
+plane20.bmp,538212,89666
+plane20_b.bmp,627878,89666
+plane25.bmp,717544,89666
+plane25_b.bmp,807210,89666
+plane30.bmp,896876,89738
+plane30_b.bmp,986614,89666
+plane35.bmp,1076280,89666
+plane35_b.bmp,1165946,89666
+vplane_messages_de.dat,1255612,4389
+vplane_messages_en.dat,1260001,4160

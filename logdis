@@ -1,0 +1,1882 @@
+-------------------- System start Version:2.1 pl:120 Reset:02
+13.01.2024 14:19:21 ?;ID File is recreated
+13.01.2024 14:19:21 ?;Cannot load Mapping File
+13.01.2024 14:19:27 ?;IP Adress: 192.168.99.105 Netmask: 255.255.255.0
+13.01.2024 14:19:29 ?;Code 1 File received mapping.bxx cum:32759 pl:26227
+13.01.2024 14:19:32 ?;Code 1 File received boot.bxx cum:25746 pl:120
+13.01.2024 14:19:43 ?;Code 1 File received system_vbc2_en.bxx cum:60372 pl:3139
+13.01.2024 14:19:44 ?;Code 1 File received system_vbc2_en/res cum:13563 pl:1
+13.01.2024 14:19:51 ?;Code 1 File received vbar_basic_vbc2_en.bxx cum:61051 pl:4511
+13.01.2024 14:20:22 ?;Code 1 File received vbar_basic_vbc2_en/res cum:11843 pl:27
+13.01.2024 14:20:30 ?;Code 1 File received vplane_vbc2_en.bxx cum:24123 pl:968
+13.01.2024 14:20:40 ?;Code 1 File received vplane_vbc2_en/res cum:35501 pl:6
+13.01.2024 14:20:42 ?;Code 1 File received vbasic_vbc2_en.bxx cum:43428 pl:128
+13.01.2024 14:20:54 ?;Code 1 File received vbasic_vbc2_en/res cum:18193 pl:5
+13.01.2024 14:20:56 ?;Code 1 File received vcm_vbc2_en.bxx cum:27908 pl:162
+13.01.2024 14:20:58 ?;Code 1 File received shop_vbc2_en.bxx cum:16985 pl:311
+13.01.2024 14:20:58 ?;Code 1 File received welcome_vbc2_en.bxx cum:15174 pl:278
+13.01.2024 14:20:58 ?;Code 1 File received vbar_basic_evo_vbc2_en.bxx cum:39808 pl:11
+13.01.2024 14:20:58 ?;Code 1 File received evo_vbc2_en.bxx cum:54250 pl:9
+13.01.2024 14:20:58 ?;Code 1 File received evo_vbc2_en/res cum:47929 pl:1
+13.01.2024 14:21:03 ?;Code 1 File received theme_01_vbc2_en.bxx cum:7513 pl:64
+13.01.2024 14:21:17 ?;Code 1 File received theme_01_vbc2_en/res cum:12794 pl:41
+13.01.2024 14:21:17 ?;Code 1 File received theme_01_evo_vbc2_en.bxx cum:47815 pl:4
+13.01.2024 14:21:17 ?;Code 1 File received sound_1_vbc2_en.bxx cum:57853 pl:4
+13.01.2024 14:21:25 ?;Code 1 File received sound_1_vbc2_en/res cum:61429 pl:2
+13.01.2024 14:21:26 ?;Code 7 Action Status 0
+13.01.2024 14:21:26 ?;Update end error=0
+13.01.2024 14:21:40 Good;IP Adress: 192.168.99.105 Netmask: 255.255.255.0
+-------------------- System start Version:2.1 pl:120 Reset:03
+01.01.1970 00:00:08 Good;IP Adress: 192.168.99.147 Netmask: 255.255.255.0
+28.02.2024 07:12:50 Good;IP Adress: 192.168.99.147 Netmask: 255.255.255.0
+28.02.2024 07:15:33 Good;Code 1 File received mapping.bxx cum:16964 pl:56056
+28.02.2024 07:15:37 Good;Code 1 File received boot.bxx cum:26034 pl:121
+28.02.2024 07:15:46 Good;Code 1 File received system_vbc2_en.bxx cum:6069 pl:3140
+28.02.2024 07:15:48 Good;Code 1 File received vcm_vbc2_en.bxx cum:16107 pl:163
+28.02.2024 07:15:50 Good;Code 1 File received shop_vbc2_en.bxx cum:12182 pl:313
+28.02.2024 07:15:50 Good;File delete welcome_vbc2_en
+28.02.2024 07:15:51 Good;Code 7 Action Status 0
+28.02.2024 07:15:51 Good;Update end error=0
+-------------------- System start Version:2.1 pl:121 Reset:02
+28.02.2024 07:16:05 Good;IP Adress: 192.168.99.147 Netmask: 255.255.255.0
+-------------------- System start Version:2.1 pl:121 Reset:03
+28.02.2024 07:18:54 Good;IP Adress: 192.168.99.147 Netmask: 255.255.255.0
+28.02.2024 07:19:00 Good;Code 1 File received mapping.bxx cum:52966 pl:44063
+28.02.2024 07:19:00 Good;Code 1 File received welcome_vbc2_en.bxx cum:28656 pl:278
+28.02.2024 07:19:01 Good;Update end error=0
+28.02.2024 09:08:50 Good;IP Adress: 192.168.99.147 Netmask: 255.255.255.0
+28.02.2024 09:09:08 Good;Code 1 File received mapping.bxx cum:20864 pl:56056
+28.02.2024 09:09:08 Good;File delete welcome_vbc2_en
+28.02.2024 09:09:08 Good;Update end error=0
+28.02.2024 09:09:09 Good;Code 1 File received mapping.bxx cum:63317 pl:44063
+28.02.2024 09:09:09 Good;Code 1 File received welcome_vbc2_en.bxx cum:47166 pl:278
+28.02.2024 09:09:10 Good;Update end error=0
+28.02.2024 09:18:46 Good;IP Adress: 192.168.99.147 Netmask: 255.255.255.0
+06.03.2024 07:05:26 Good;IP Adress: 192.168.99.147 Netmask: 255.255.255.0
+22.01.1970 15:04:14 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+13.06.2024 15:24:28 Good;Code 1 File received mapping.bxx cum:53647 pl:29730
+13.06.2024 15:25:03 Good;Code 1 File received boot.bxx cum:38736 pl:122
+13.06.2024 15:27:50 Good;Code 1 File received system_vbc2_en.bxx cum:56346 pl:3141
+13.06.2024 15:30:04 Good;Code 1 File received vbar_basic_vbc2_en.bxx cum:60855 pl:4517
+13.06.2024 15:32:49 Good;Code 1 File received vplane_vbc2_en.bxx cum:24677 pl:970
+13.06.2024 15:33:14 Good;Code 1 File received vbasic_vbc2_en.bxx cum:7723 pl:130
+13.06.2024 15:34:07 Good;Code 1 File received shop_vbc2_en.bxx cum:12899 pl:316
+13.06.2024 15:34:09 Good;Code 1 File received vbar_basic_evo_vbc2_en.bxx cum:40528 pl:12
+13.06.2024 15:35:15 Good;Code 1 File received theme_01_vbc2_en.bxx cum:17531 pl:69
+13.06.2024 15:35:15 Good;Code 1 File received sound_1_vbc2_en.bxx cum:58185 pl:6
+13.06.2024 15:37:52 Good;Code 1 File received sound_1_vbc2_en/res cum:33494 pl:3
+13.06.2024 15:38:10 Good;Code 1 File received vsim_vbc2_en.bxx cum:22846 pl:27
+13.06.2024 15:38:10 Good;Code 1 File received vsim_vbc2_en/res cum:24018 pl:1
+13.06.2024 15:38:10 Good;Code 7 Action Status 0
+13.06.2024 15:38:10 Good;Update end error=0
+-------------------- System start Version:2.1 pl:122 Reset:02
+13.06.2024 15:38:22 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+13.06.2024 15:42:53 Good;Code 1 File received mapping.bxx cum:11526 pl:42858
+13.06.2024 15:42:55 Good;Code 1 File received user_vbc2_en.bxx cum:1259 pl:310
+13.06.2024 15:42:55 Good;Update end error=0
+13.06.2024 15:42:57 Good;Code 1 File received mapping.bxx cum:5757 pl:26042
+13.06.2024 15:42:59 Good;Code 1 File received modify_vbc2_en.bxx cum:19248 pl:60
+13.06.2024 15:42:59 Good;Update end error=0
+13.06.2024 15:43:02 Good;Code 1 File received mapping.bxx cum:40700 pl:31175
+13.06.2024 15:43:03 Good;Code 1 File received fuelmeter_vbc2_en.bxx cum:5391 pl:17
+13.06.2024 15:43:04 Good;Code 1 File received fuelmeter_vbc2_en/res cum:64471 pl:1
+13.06.2024 15:43:04 Good;Update end error=0
+13.06.2024 15:43:06 Good;Code 1 File received mapping.bxx cum:35765 pl:59463
+13.06.2024 15:43:10 Good;Code 1 File received batterylog_vbc2_en.bxx cum:40263 pl:717
+13.06.2024 15:43:10 Good;Code 1 File received batterylog_vbc2_en/res cum:65182 pl:3
+13.06.2024 15:43:10 Good;Update end error=0
+13.06.2024 15:43:13 Good;Code 1 File received mapping.bxx cum:24245 pl:53359
+13.06.2024 15:43:26 Good;Code 1 File received buddy_vbc2_en.bxx cum:27675 pl:71
+13.06.2024 15:43:26 Good;Update end error=0
+13.06.2024 15:43:33 Good;Code 1 File received mapping.bxx cum:6208 pl:21549
+13.06.2024 15:43:34 Good;Code 1 File received news_vbc2_en.bxx cum:32357 pl:14
+13.06.2024 15:43:34 Good;Code 1 File received news_vbc2_en/res cum:18996 pl:1
+13.06.2024 15:43:34 Good;Update end error=0
+13.06.2024 15:43:40 Good;Code 1 File received mapping.bxx cum:44741 pl:50537
+13.06.2024 15:43:41 Good;Code 1 File received stickclic_vbc2_en.bxx cum:59300 pl:26
+13.06.2024 15:43:41 Good;Code 1 File received stickclic_vbc2_en/res cum:28074 pl:3
+13.06.2024 15:43:41 Good;Update end error=0
+13.06.2024 15:43:47 Good;Code 1 File received mapping.bxx cum:46607 pl:11901
+13.06.2024 15:43:48 Good;Code 1 File received vbar_canopy_vbc2_en.bxx cum:38281 pl:17
+13.06.2024 15:43:48 Good;Update end error=0
+13.06.2024 15:43:50 Good;Code 1 File received mapping.bxx cum:57287 pl:14714
+13.06.2024 15:43:50 Good;Code 1 File received temp_switch_vbc2_en.bxx cum:38156 pl:10
+13.06.2024 15:43:50 Good;Update end error=0
+13.06.2024 15:43:54 Good;Code 1 File received mapping.bxx cum:52341 pl:17597
+13.06.2024 15:43:54 Good;Code 1 File received british_failsafe_vbc2_en.bxx cum:2303 pl:48
+13.06.2024 15:43:54 Good;Update end error=0
+13.06.2024 15:43:59 Good;Code 1 File received mapping.bxx cum:22998 pl:59591
+13.06.2024 15:44:02 Good;Code 1 File received rescue_vbc2_en.bxx cum:65334 pl:292
+13.06.2024 15:44:02 Good;Update end error=0
+13.06.2024 15:44:03 Good;Code 1 File received mapping.bxx cum:43486 pl:57909
+13.06.2024 15:44:16 Good;Code 1 File received macrocells_vbc2_en.bxx cum:25966 pl:1298
+13.06.2024 15:44:16 Good;Update end error=0
+-------------------- System start Version:2.1 pl:122 Reset:03
+13.06.2024 15:44:34 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+13.06.2024 23:46:32 Good;Code 1 File received mapping.bxx cum:48597 pl:64868
+13.06.2024 23:46:48 Good;Code 1 File received theme_moccha_vbc2_en.bxx cum:40734 pl:8
+13.06.2024 23:46:48 Good;Update end error=0
+13.06.2024 23:46:56 Good;Code 1 File received mapping.bxx cum:39861 pl:57570
+13.06.2024 23:46:56 Good;Code 1 File received talkingswitches_vbc2_en.bxx cum:55545 pl:86
+13.06.2024 23:46:56 Good;Update end error=0
+13.06.2024 23:47:03 Good;Code 1 File received mapping.bxx cum:39605 pl:30136
+13.06.2024 23:47:03 Good;Code 1 File received talkingtelemetry_vbc2_en.bxx cum:59779 pl:112
+13.06.2024 23:47:04 Good;Update end error=0
+13.06.2024 23:47:06 Good;Code 1 File received mapping.bxx cum:24938 pl:32077
+13.06.2024 23:47:08 Good;Code 1 File received sound_2_vbc2_en.bxx cum:36403 pl:5
+13.06.2024 23:49:00 Good;Code 1 File received sound_2_vbc2_en/res cum:37410 pl:3
+13.06.2024 23:49:01 Good;Update end error=0
+13.06.2024 23:49:32 Good;Code 1 File received mapping.bxx cum:45733 pl:34378
+13.06.2024 23:49:32 Good;Code 1 File received voice_01_vbc2_en.bxx cum:8655 pl:44
+13.06.2024 23:52:54 Good;Code 1 File received voice_01_vbc2_en/res cum:63497 pl:21
+13.06.2024 23:52:55 Good;Update end error=0
+13.06.2024 23:52:55 Good;Server File Code:501 received:/news/new length:5369
+13.06.2024 23:53:42 Error;Char out of screen [screens.] w:640 h:4224 rect x:10 y:4222 w:12 h:33
+13.06.2024 23:53:42 Error;Char out of screen [screens.] w:640 h:4224 rect x:22 y:4222 w:12 h:33
+13.06.2024 23:53:42 Error;Char out of screen [screens.] w:640 h:4224 rect x:34 y:4222 w:8 h:33
+13.06.2024 23:53:42 Error;Char out of screen [screens.] w:640 h:4224 rect x:42 y:4222 w:13 h:33
+13.06.2024 23:53:42 Error;Char out of screen [screens.] w:640 h:4224 rect x:55 y:4222 w:13 h:33
+13.06.2024 23:54:53 Good;Code 1 File received mapping.bxx cum:38519 pl:13877
+13.06.2024 23:55:23 Good;Code 1 File received theme_dragon_vbc2_en.bxx cum:63815 pl:9
+13.06.2024 23:55:23 Good;Update end error=0
+13.06.2024 23:58:05 Error;Draw BMPZ: Image out of screen w:40 h:310 rect x:0 y:-7 w:40 h:40
+13.06.2024 23:58:06 Error;Draw BMPZ: Image out of screen w:40 h:310 rect x:0 y:-7 w:40 h:40
+13.06.2024 23:58:07 Error;Draw BMPZ: Image out of screen w:40 h:310 rect x:0 y:-7 w:40 h:40
+14.06.2024 00:07:35 Good;Code 1 File received mapping.bxx cum:2574 pl:39406
+14.06.2024 00:07:36 Good;Code 1 File received powermeter_vbc2_en.bxx cum:29063 pl:452
+14.06.2024 00:07:36 Good;Update end error=0
+14.06.2024 00:07:38 Good;Code 1 File received mapping.bxx cum:29365 pl:50722
+14.06.2024 00:07:47 Good;Code 1 File received esc_scorpion_vbc2_en.bxx cum:7868 pl:750
+14.06.2024 00:07:47 Good;Update end error=0
+14.06.2024 00:07:56 Good;Code 1 File received mapping.bxx cum:13418 pl:17430
+14.06.2024 00:08:05 Good;Code 1 File received esc_yge_vbc2_en.bxx cum:18289 pl:270
+14.06.2024 00:08:05 Good;Update end error=0
+14.06.2024 00:08:08 Good;Code 1 File received mapping.bxx cum:2584 pl:28622
+14.06.2024 00:08:23 Good;Code 1 File received esc_hobbywing_vbc2_en.bxx cum:25337 pl:48
+14.06.2024 00:08:23 Good;Update end error=0
+14.06.2024 00:08:34 Good;Code 1 File received mapping.bxx cum:14005 pl:8153
+14.06.2024 00:08:41 Good;Code 1 File received esc_omp_vbc2_en.bxx cum:36971 pl:6
+14.06.2024 00:08:41 Good;Update end error=0
+14.06.2024 00:09:22 Good;Code 1 File received mapping.bxx cum:12050 pl:6772
+14.06.2024 00:09:30 Good;Code 1 File received esc_ztw_vbc2_en.bxx cum:59504 pl:9
+14.06.2024 00:09:30 Good;Update end error=0
+14.06.2024 00:20:33 Good;Code 1 File received mapping.bxx cum:41204 pl:50286
+14.06.2024 00:20:34 Good;Code 1 File received rcvoltage_vbc2_en.bxx cum:59357 pl:145
+14.06.2024 00:20:34 Good;Update end error=0
+14.06.2024 00:20:37 Good;Code 1 File received mapping.bxx cum:45877 pl:30566
+14.06.2024 00:20:42 Good;Code 1 File received sensorhub_vbc2_en.bxx cum:9521 pl:317
+14.06.2024 00:20:42 Good;Update end error=0
+14.06.2024 00:20:47 Good;Code 1 File received mapping.bxx cum:1942 pl:22209
+14.06.2024 00:21:00 Good;Code 1 File received timer_vbc2_en.bxx cum:10952 pl:239
+14.06.2024 00:21:00 Good;Update end error=0
+14.06.2024 00:21:12 Good;Code 1 File received mapping.bxx cum:23226 pl:46647
+14.06.2024 00:21:23 Good;Code 1 File received esc_kontronik_vbc2_en.bxx cum:12384 pl:307
+14.06.2024 00:21:23 Good;Update end error=0
+14.06.2024 00:27:14 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.06.2024 00:32:43 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.06.2024 01:17:01 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.06.2024 01:17:33 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.06.2024 01:18:54 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.06.2024 01:20:38 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.06.2024 01:24:19 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.06.2024 01:27:14 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.06.2024 01:28:10 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.06.2024 01:29:48 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.06.2024 01:34:40 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.06.2024 01:35:14 Good;Code 1 File received mapping.bxx cum:55946 pl:15695
+14.06.2024 01:35:18 Good;Code 1 File received touch_vbc2_en.bxx cum:48387 pl:7
+14.06.2024 01:35:18 Good;Update end error=0
+14.06.2024 01:39:59 Good;Code 1 File received mapping.bxx cum:29797 pl:16836
+14.06.2024 01:40:25 Good;Code 1 File received vmulti_vbc2_en.bxx cum:20225 pl:554
+14.06.2024 01:40:25 Good;Code 1 File received vmulti_vbc2_en/res cum:13212 pl:5
+14.06.2024 01:40:25 Good;Update end error=0
+14.06.2024 01:40:26 Good;Code 1 File received mapping.bxx cum:42986 pl:48985
+14.06.2024 01:40:26 Good;Code 1 File received screenshot_vbc2_en.bxx cum:52717 pl:82
+14.06.2024 01:40:38 Good;Code 1 File received rx2_vbc2_en.bxx cum:49601 pl:42
+14.06.2024 01:40:38 Good;Code 1 File received vbar_throttlecurve_vbc2_en.bxx cum:10931 pl:5
+14.06.2024 01:40:39 Good;Code 1 File received fwu_vbc2_en.bxx cum:58775 pl:231
+14.06.2024 01:40:39 Good;Code 1 File received autoinstall_vbc2_en.bxx cum:1789 pl:29
+14.06.2024 01:40:39 Good;Update end error=0
+14.06.2024 01:40:40 Good;Code 1 File received mapping.bxx cum:49210 pl:10798
+14.06.2024 01:40:41 Good;Code 1 File received homezone_vbc2_en.bxx cum:36811 pl:8
+14.06.2024 01:40:47 Good;Code 1 File received ip_sim_vbc2_en.bxx cum:58897 pl:93
+14.06.2024 01:40:47 Good;Code 1 File received screenlock_vbc2_en.bxx cum:31318 pl:5
+14.06.2024 01:40:56 Good;Code 1 File received ecu_jetcat_vbc2_en.bxx cum:53608 pl:40
+14.06.2024 01:42:11 Good;Code 1 File received ecu_jetcat_vbc2_en/res cum:24098 pl:1
+14.06.2024 01:42:12 Good;Code 1 File received rfid_vbc2_en.bxx cum:35761 pl:281
+14.06.2024 01:42:14 Good;Code 1 File received pressure_vbc2_en.bxx cum:63116 pl:352
+14.06.2024 01:42:15 Good;Code 1 File received gps_vbc2_en.bxx cum:20822 pl:445
+14.06.2024 01:42:15 Good;Code 1 File received gps_vbc2_en/res cum:25307 pl:1
+14.06.2024 01:42:15 Good;Update end error=0
+14.06.2024 01:42:17 Good;Code 1 File received mapping.bxx cum:63975 pl:44496
+14.06.2024 01:42:17 Good;Code 1 File received rctemp_vbc2_en.bxx cum:9166 pl:87
+14.06.2024 01:42:18 Good;Code 1 File received fixbat_vbc2_en.bxx cum:30361 pl:85
+14.06.2024 01:42:18 Good;Code 1 File received vbar_rpm_alert_vbc2_en.bxx cum:16186 pl:71
+14.06.2024 01:42:20 Good;Code 1 File received backup_vbc2_en.bxx cum:25956 pl:10
+14.06.2024 01:42:21 Good;Code 1 File received voice_vbc2_en.bxx cum:12800 pl:127
+14.06.2024 01:44:22 Good;Code 1 File received voice_vbc2_en/res cum:42137 pl:16
+14.06.2024 01:46:00 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.06.2024 01:50:00 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.06.2024 01:51:23 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.06.2024 02:09:29 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.06.2024 02:10:56 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.06.2024 02:11:26 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.06.2024 10:08:30 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.06.2024 23:36:06 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+01.01.1970 08:00:03 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+01.01.1970 08:00:08 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+15.06.2024 02:30:14 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+15.06.2024 02:30:36 Good;Code 1 File received mapping.bxx cum:426 pl:53795
+15.06.2024 02:30:37 Good;Code 1 File received rctemp_vbc2_en.bxx cum:5630 pl:87
+15.06.2024 02:30:38 Good;Code 1 File received fixbat_vbc2_en.bxx cum:41171 pl:85
+15.06.2024 02:30:38 Good;Code 1 File received vbar_rpm_alert_vbc2_en.bxx cum:1293 pl:71
+15.06.2024 02:30:41 Good;Code 1 File received backup_vbc2_en.bxx cum:28278 pl:10
+15.06.2024 02:30:42 Good;Code 1 File received voice_vbc2_en.bxx cum:48821 pl:127
+15.06.2024 02:33:09 Good;Code 1 File received voice_vbc2_en/res cum:42137 pl:16
+15.06.2024 02:33:26 Good;Code 1 File received theme_xmas_vbc2_en.bxx cum:7034 pl:7
+15.06.2024 02:34:16 Good;Code 1 File received vbar_old_vbc2_en.bxx cum:1304 pl:121
+15.06.2024 02:37:21 Good;Code 1 File received vbar_old_vbc2_en/res cum:54804 pl:4
+15.06.2024 02:37:51 Good;Code 1 File received vplane_old_vbc2_en.bxx cum:33120 pl:100
+15.06.2024 02:39:25 Good;Code 1 File received vplane_old_vbc2_en/res cum:6057 pl:7
+15.06.2024 02:39:26 Good;Code 1 File received emu_proaux_old_en.bxx cum:39129 pl:9
+15.06.2024 02:39:26 Good;File delete theme_moccha_vbc2_en
+15.06.2024 02:39:26 Good;File delete voice_01_vbc2_en
+15.06.2024 02:39:27 Good;Update end error=0
+15.06.2024 02:49:01 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+15.06.2024 02:49:21 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+15.06.2024 02:51:11 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+15.06.2024 03:51:14 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+15.06.2024 03:52:33 Error;LET Expression: Attempted division by zero in "tmp=raw[8]*10*1000/(R352*100+R351)/R354"
+15.06.2024 03:52:34 Error;Include /model/0020047299/user2 Load Error 7
+15.06.2024 03:53:10 Error;Element List exceeded
+15.06.2024 03:53:11 Error;Element List exceeded
+15.06.2024 03:53:12 Error;Element List exceeded
+15.06.2024 03:53:13 Error;Element List exceeded
+15.06.2024 03:53:14 Error;Element List exceeded
+15.06.2024 03:53:15 Error;Element List exceeded
+15.06.2024 03:53:16 Error;Element List exceeded
+15.06.2024 03:53:17 Error;Element List exceeded
+15.06.2024 03:53:18 Error;Element List exceeded
+15.06.2024 03:53:19 Error;Element List exceeded
+15.06.2024 03:53:20 Error;Element List exceeded
+15.06.2024 03:53:21 Error;Element List exceeded
+15.06.2024 03:53:22 Error;Element List exceeded
+15.06.2024 03:53:23 Error;Element List exceeded
+15.06.2024 03:53:24 Error;Element List exceeded
+15.06.2024 03:53:25 Error;Element List exceeded
+15.06.2024 03:53:26 Error;Element List exceeded
+15.06.2024 03:53:27 Error;Element List exceeded
+15.06.2024 03:53:28 Error;Element List exceeded
+15.06.2024 03:53:29 Error;Element List exceeded
+15.06.2024 03:53:30 Error;Element List exceeded
+15.06.2024 03:53:31 Error;Element List exceeded
+15.06.2024 03:53:32 Error;Element List exceeded
+15.06.2024 03:53:33 Error;Element List exceeded
+15.06.2024 03:53:34 Error;Element List exceeded
+15.06.2024 03:53:35 Error;Element List exceeded
+15.06.2024 03:53:36 Error;Element List exceeded
+15.06.2024 03:53:37 Error;Element List exceeded
+15.06.2024 03:53:38 Error;Element List exceeded
+15.06.2024 03:53:39 Error;Element List exceeded
+15.06.2024 03:53:40 Error;Element List exceeded
+15.06.2024 03:53:41 Error;Element List exceeded
+15.06.2024 03:53:42 Error;Element List exceeded
+15.06.2024 03:53:43 Error;Element List exceeded
+15.06.2024 03:53:44 Error;Element List exceeded
+15.06.2024 03:53:45 Error;Element List exceeded
+15.06.2024 03:53:46 Error;Element List exceeded
+15.06.2024 03:53:47 Error;Element List exceeded
+15.06.2024 03:53:48 Error;Element List exceeded
+15.06.2024 03:53:49 Error;Element List exceeded
+15.06.2024 03:53:50 Error;Element List exceeded
+15.06.2024 03:53:51 Error;Element List exceeded
+15.06.2024 03:53:52 Error;Element List exceeded
+15.06.2024 03:53:53 Error;Element List exceeded
+15.06.2024 03:53:54 Error;Element List exceeded
+15.06.2024 03:53:55 Error;Element List exceeded
+15.06.2024 03:53:56 Error;Element List exceeded
+15.06.2024 03:53:57 Error;Element List exceeded
+15.06.2024 03:53:58 Error;Element List exceeded
+15.06.2024 03:53:59 Error;Element List exceeded
+15.06.2024 03:54:00 Error;Element List exceeded
+15.06.2024 03:54:01 Error;Element List exceeded
+15.06.2024 03:54:02 Error;Element List exceeded
+15.06.2024 03:54:03 Error;Element List exceeded
+15.06.2024 03:54:04 Error;Element List exceeded
+15.06.2024 03:54:05 Error;Element List exceeded
+15.06.2024 03:54:06 Error;Element List exceeded
+15.06.2024 03:54:07 Error;Element List exceeded
+15.06.2024 03:54:08 Error;Element List exceeded
+15.06.2024 03:54:09 Error;Element List exceeded
+15.06.2024 03:55:14 Error;Element List exceeded
+15.06.2024 03:55:15 Error;Element List exceeded
+15.06.2024 03:55:16 Error;Element List exceeded
+15.06.2024 03:55:17 Error;Element List exceeded
+15.06.2024 03:55:18 Error;Element List exceeded
+15.06.2024 03:55:19 Error;Element List exceeded
+15.06.2024 03:55:20 Error;Element List exceeded
+15.06.2024 03:55:21 Error;Element List exceeded
+15.06.2024 03:55:22 Error;Element List exceeded
+15.06.2024 03:55:23 Error;Element List exceeded
+15.06.2024 03:55:24 Error;Element List exceeded
+15.06.2024 03:55:25 Error;Element List exceeded
+15.06.2024 03:55:26 Error;Element List exceeded
+15.06.2024 03:55:27 Error;Element List exceeded
+15.06.2024 03:55:28 Error;Element List exceeded
+15.06.2024 03:55:29 Error;Element List exceeded
+15.06.2024 03:55:30 Error;Element List exceeded
+15.06.2024 03:55:31 Error;Element List exceeded
+15.06.2024 03:55:32 Error;Element List exceeded
+15.06.2024 03:55:33 Error;Element List exceeded
+15.06.2024 03:55:34 Error;Element List exceeded
+15.06.2024 03:55:35 Error;Element List exceeded
+15.06.2024 03:55:36 Error;Element List exceeded
+15.06.2024 03:55:37 Error;Element List exceeded
+15.06.2024 03:55:38 Error;Element List exceeded
+15.06.2024 03:55:39 Error;Element List exceeded
+15.06.2024 03:55:40 Error;Element List exceeded
+15.06.2024 03:55:41 Error;Element List exceeded
+15.06.2024 03:55:42 Error;Element List exceeded
+15.06.2024 03:55:43 Error;Element List exceeded
+15.06.2024 23:56:22 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+16.06.2024 02:48:37 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+16.06.2024 14:04:28 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+16.06.2024 14:04:50 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+16.06.2024 18:00:43 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+16.06.2024 19:36:49 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+16.06.2024 20:24:31 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+16.06.2024 21:41:18 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+16.06.2024 21:43:33 Good;Server File Code:501 received:battery/bt_1/status length:40
+16.06.2024 21:43:33 Good;Server File Code:501 received:battery/bt_1/log.csv length:69
+16.06.2024 21:43:33 Good;Server File Code:501 received:battery/bt_1/name length:32
+16.06.2024 21:43:33 Good;Server File Code:501 received:battery/bt_6/status length:40
+16.06.2024 21:43:34 Good;Server File Code:501 received:battery/bt_6/log.csv length:1009
+16.06.2024 21:43:34 Good;Server File Code:501 received:battery/bt_6/name length:32
+16.06.2024 21:43:34 Good;Server File Code:501 received:battery/bt_2/status length:40
+16.06.2024 21:43:34 Good;Server File Code:501 received:battery/bt_2/log.csv length:2724
+16.06.2024 21:43:35 Good;Server File Code:501 received:battery/bt_2/name length:32
+16.06.2024 21:43:35 Good;Server File Code:501 received:battery/bt_5/status length:40
+16.06.2024 21:43:36 Good;Server File Code:501 received:battery/bt_5/log.csv length:1584
+16.06.2024 21:43:36 Good;Server File Code:501 received:battery/bt_5/name length:32
+16.06.2024 21:43:36 Good;Server File Code:501 received:battery/bt_3/status length:40
+16.06.2024 21:43:37 Good;Server File Code:501 received:battery/bt_3/log.csv length:1471
+16.06.2024 21:43:38 Good;Server File Code:501 received:battery/bt_3/name length:32
+16.06.2024 21:43:47 Good;Server File Code:501 received:images/user1.bmp length:89666
+16.06.2024 21:43:55 Good;Server File Code:501 received:images/user2.bmp length:89666
+16.06.2024 21:43:59 Good;Server File Code:501 received:images/user2.png length:28093
+16.06.2024 21:44:08 Good;Server File Code:501 received:images/user1.png length:90639
+16.06.2024 21:44:09 Good;Server File Code:501 received:user/default_vbar.xml length:789
+16.06.2024 21:44:10 Good;Server File Code:501 received:user/default_vcopter.xml length:679
+16.06.2024 21:44:11 Good;Server File Code:501 received:user/SAB_RAW_Puma.xml length:734
+16.06.2024 21:44:11 Good;Server File Code:501 received:user/default_vplane.xml length:785
+16.06.2024 21:44:12 Good;Server File Code:501 received:user/default_vbasic.xml length:785
+16.06.2024 21:44:13 Good;Server File Code:501 received:vbar/GAUI___X7f length:2400
+16.06.2024 21:44:13 Good;Server File Code:501 received:vbar/RAW700 length:2400
+16.06.2024 21:44:14 Good;Server File Code:501 received:vbar/GAUI_X7 length:2400
+16.06.2024 21:44:14 Good;Server File Code:501 received:sys/log/tx_name length:44
+16.06.2024 21:44:15 Good;Server File Code:501 received:model/0020047887/modify.conf length:400
+16.06.2024 21:44:17 Good;Server File Code:501 received:model/0020047887/user2 length:578
+16.06.2024 21:44:18 Good;Server File Code:501 received:model/0020047887/name length:32
+16.06.2024 21:44:18 Good;Server File Code:501 received:model/0020047887/log/F1715348208/summary.csv length:94
+16.06.2024 21:44:19 Good;Server File Code:501 received:model/0020047887/log/F1715348208/summary length:320
+16.06.2024 21:44:19 Good;Server File Code:501 received:model/0020047887/log/F1715348208/vbar.log length:1533
+16.06.2024 21:44:20 Good;Server File Code:501 received:model/0020047887/log/F1715348208/ui.csv length:8225
+16.06.2024 21:44:20 Good;Server File Code:501 received:model/0020047887/log/F1715347089/summary.csv length:92
+16.06.2024 21:44:21 Good;Server File Code:501 received:model/0020047887/log/F1715347089/summary length:320
+16.06.2024 21:44:22 Good;Server File Code:501 received:model/0020047887/log/F1715347089/vbar.log length:998
+16.06.2024 21:44:24 Good;Server File Code:501 received:model/0020047887/log/F1715347089/ui.csv length:2806
+16.06.2024 21:44:24 Good;Server File Code:501 received:model/0020047887/log/F1714995274/summary.csv length:90
+16.06.2024 21:44:25 Good;Server File Code:501 received:model/0020047887/log/F1714995274/summary length:320
+16.06.2024 21:44:26 Good;Server File Code:501 received:model/0020047887/log/F1714995274/vbar.log length:571
+16.06.2024 21:44:27 Good;Server File Code:501 received:model/0020047887/log/F1714995115/summary.csv length:90
+16.06.2024 21:44:28 Good;Server File Code:501 received:model/0020047887/log/F1714995115/summary length:320
+16.06.2024 21:44:28 Good;Server File Code:501 received:model/0020047887/log/F1714995115/vbar.log length:571
+16.06.2024 21:44:30 Good;Server File Code:501 received:model/0020047887/log/F1714761507/summary.csv length:101
+16.06.2024 21:44:31 Good;Server File Code:501 received:model/0020047887/log/F1714761507/summary length:320
+16.06.2024 21:44:31 Good;Server File Code:501 received:model/0020047887/log/F1714761507/vbar.log length:1739
+16.06.2024 21:44:36 Good;Server File Code:501 received:model/0020047887/log/F1714761507/ui.csv length:17480
+16.06.2024 21:44:36 Good;Server File Code:501 received:model/0020047887/log/F1714761464/summary.csv length:90
+16.06.2024 21:44:37 Good;Server File Code:501 received:model/0020047887/log/F1714761464/summary length:320
+16.06.2024 21:44:37 Good;Server File Code:501 received:model/0020047887/log/F1714761464/vbar.log length:987
+16.06.2024 21:44:37 Good;Server File Code:501 received:model/0020047887/log/F1712337389/summary.csv length:101
+16.06.2024 21:44:38 Good;Server File Code:501 received:model/0020047887/log/F1712337389/summary length:320
+16.06.2024 21:44:38 Good;Server File Code:501 received:model/0020047887/log/F1712337389/vbar.log length:2275
+16.06.2024 21:44:40 Good;Server File Code:501 received:model/0020047887/log/F1712337389/ui.csv length:21374
+16.06.2024 21:44:41 Good;Server File Code:501 received:model/0020047887/log/F1712335839/summary.csv length:101
+16.06.2024 21:44:41 Good;Server File Code:501 received:model/0020047887/log/F1712335839/summary length:320
+16.06.2024 21:44:41 Good;Server File Code:501 received:model/0020047887/log/F1712335839/vbar.log length:2012
+16.06.2024 21:44:49 Good;Server File Code:501 received:model/0020047887/log/F1712335839/ui.csv length:21252
+16.06.2024 21:44:49 Good;Server File Code:501 received:model/0020047887/log/F1712334703/summary.csv length:101
+16.06.2024 21:44:49 Good;Server File Code:501 received:model/0020047887/log/F1712334703/summary length:320
+16.06.2024 21:44:50 Good;Server File Code:501 received:model/0020047887/log/F1712334703/vbar.log length:3782
+16.06.2024 21:44:52 Good;Server File Code:501 received:model/0020047887/log/F1712334703/ui.csv length:25547
+16.06.2024 21:44:53 Good;Server File Code:501 received:model/0020047887/log/F1696261590/summary.csv length:99
+16.06.2024 21:44:53 Good;Server File Code:501 received:model/0020047887/log/F1696261590/summary length:320
+16.06.2024 21:44:53 Good;Server File Code:501 received:model/0020047887/log/F1696261590/vbar.log length:1509
+16.06.2024 21:44:54 Good;Server File Code:501 received:model/0020047887/log/F1696261590/ui.csv length:11258
+16.06.2024 21:44:55 Good;Server File Code:501 received:model/0020044992/user2 length:578
+16.06.2024 21:44:57 Good;Server File Code:501 received:model/0020044992/name length:32
+16.06.2024 21:44:58 Good;Server File Code:501 received:model/0020023298/user2 length:417
+16.06.2024 21:44:58 Good;Server File Code:501 received:model/0020023298/name length:32
+16.06.2024 21:45:01 Good;Server File Code:501 received:model/0020023298/log/F1714611420/summary.csv length:77
+16.06.2024 21:45:01 Good;Server File Code:501 received:model/0020023298/log/F1714611420/summary length:320
+16.06.2024 21:45:02 Good;Server File Code:501 received:model/0020023298/log/F1714611420/vbar.log length:3079
+16.06.2024 21:45:03 Good;Server File Code:501 received:model/0020023298/log/F1714610634/summary.csv length:79
+16.06.2024 21:45:03 Good;Server File Code:501 received:model/0020023298/log/F1714610634/summary length:320
+16.06.2024 21:45:04 Good;Server File Code:501 received:model/0020023298/log/F1714610634/vbar.log length:283
+16.06.2024 21:45:04 Good;Server File Code:501 received:model/0020023298/log/F1714610537/summary.csv length:79
+16.06.2024 21:45:04 Good;Server File Code:501 received:model/0020023298/log/F1714610537/summary length:320
+16.06.2024 21:45:04 Good;Server File Code:501 received:model/0020023298/log/F1714610537/vbar.log length:234
+16.06.2024 21:45:05 Good;Server File Code:501 received:model/0020023298/log/F1714610342/summary.csv length:79
+16.06.2024 21:45:05 Good;Server File Code:501 received:model/0020023298/log/F1714610342/summary length:320
+16.06.2024 21:45:05 Good;Server File Code:501 received:model/0020023298/log/F1714610342/vbar.log length:428
+16.06.2024 21:45:05 Good;Server File Code:501 received:model/0020033395/user2 length:578
+16.06.2024 21:45:06 Good;Server File Code:501 received:model/0020033395/name length:32
+16.06.2024 21:45:06 Good;Server File Code:501 received:model/0020033395/log/F1714612150/summary.csv length:85
+16.06.2024 21:45:06 Good;Server File Code:501 received:model/0020033395/log/F1714612150/summary length:320
+16.06.2024 21:45:06 Good;Server File Code:501 received:model/0020033395/log/F1714612150/vbar.log length:1616
+16.06.2024 21:45:07 Good;Server File Code:501 received:model/0020033395/log/F1714611712/summary.csv length:85
+16.06.2024 21:45:07 Good;Server File Code:501 received:model/0020033395/log/F1714611712/summary length:320
+16.06.2024 21:45:08 Good;Server File Code:501 received:model/0020033395/log/F1714611712/vbar.log length:4359
+16.06.2024 21:45:08 Good;Server File Code:501 received:model/0020033395/log/F1714610288/summary.csv length:85
+16.06.2024 21:45:08 Good;Server File Code:501 received:model/0020033395/log/F1714610288/summary length:320
+16.06.2024 21:45:09 Good;Server File Code:501 received:model/0020033395/log/F1714610288/vbar.log length:559
+16.06.2024 21:45:09 Good;Server File Code:501 received:model/0020033395/log/F1714610013/summary.csv length:85
+16.06.2024 21:45:09 Good;Server File Code:501 received:model/0020033395/log/F1714610013/summary length:320
+16.06.2024 21:45:09 Good;Server File Code:501 received:model/0020033395/log/F1714610013/vbar.log length:1113
+16.06.2024 21:45:10 Good;Server File Code:501 received:model/0027003289/user2 length:578
+16.06.2024 21:45:10 Good;Server File Code:501 received:model/0027003289/name length:32
+16.06.2024 21:45:10 Good;Server File Code:501 received:model/0027003289/log/F1714671605/summary.csv length:96
+16.06.2024 21:45:11 Good;Server File Code:501 received:model/0027003289/log/F1714671605/summary length:320
+16.06.2024 21:45:11 Good;Server File Code:501 received:model/0027003289/log/F1714671605/vbar.log length:2003
+16.06.2024 21:45:13 Good;Server File Code:501 received:model/0027003289/log/F1714671605/ui.csv length:21314
+16.06.2024 21:45:13 Good;Server File Code:501 received:model/0027003289/log/F1714671594/summary.csv length:78
+16.06.2024 21:45:13 Good;Server File Code:501 received:model/0027003289/log/F1714671594/summary length:320
+16.06.2024 21:45:14 Good;Server File Code:501 received:model/0027003289/log/F1714671594/vbar.log length:399
+16.06.2024 21:45:14 Good;Server File Code:501 received:model/0027003289/log/F1714661352/summary.csv length:96
+16.06.2024 21:45:14 Good;Server File Code:501 received:model/0027003289/log/F1714661352/summary length:320
+16.06.2024 21:45:15 Good;Server File Code:501 received:model/0027003289/log/F1714661352/vbar.log length:3422
+16.06.2024 21:45:20 Good;Server File Code:501 received:model/0027003289/log/F1714661352/ui.csv length:33965
+16.06.2024 21:45:22 Good;Server File Code:501 received:model/0027003289/log/F1714661342/summary.csv length:85
+16.06.2024 21:45:22 Good;Server File Code:501 received:model/0027003289/log/F1714661342/summary length:320
+16.06.2024 21:45:23 Good;Server File Code:501 received:model/0027003289/log/F1714661342/vbar.log length:463
+16.06.2024 21:45:23 Good;Server File Code:501 received:model/0020022658/user2 length:578
+16.06.2024 21:45:24 Good;Server File Code:501 received:model/0020022658/name length:32
+16.06.2024 21:45:24 Good;Server File Code:501 received:model/0020022658/log/F1717943414/vbar.log length:1930
+16.06.2024 21:45:24 Good;Server File Code:501 received:model/0020022658/log/F1717939140/summary.csv length:91
+16.06.2024 21:45:25 Good;Server File Code:501 received:model/0020022658/log/F1717939140/summary length:320
+16.06.2024 21:45:26 Good;Server File Code:501 received:model/0020022658/log/F1717939140/vbar.log length:816
+16.06.2024 21:45:26 Good;Server File Code:501 received:model/0020022658/log/F1717862882/summary.csv length:85
+16.06.2024 21:45:27 Good;Server File Code:501 received:model/0020022658/log/F1717862882/summary length:320
+16.06.2024 21:45:28 Good;Server File Code:501 received:model/0020022658/log/F1717862882/vbar.log length:615
+16.06.2024 21:45:29 Good;Server File Code:501 received:model/0020022658/log/F1696437238/summary.csv length:98
+16.06.2024 21:45:30 Good;Server File Code:501 received:model/0020022658/log/F1696437238/summary length:320
+16.06.2024 21:45:30 Good;Server File Code:501 received:model/0020022658/log/F1696437238/vbar.log length:1859
+16.06.2024 21:45:44 Good;Server File Code:501 received:model/0020022658/log/F1696437238/ui.csv length:18325
+16.06.2024 21:45:57 Good;Server File Code:501 received:model/0020022658/log/F1696435218/summary.csv length:98
+16.06.2024 21:46:23 Good;Server File Code:501 received:model/0020022658/log/F1696435218/summary length:320
+16.06.2024 21:46:23 Good;Server File Code:501 received:model/0020022658/log/F1696435218/vbar.log length:1982
+16.06.2024 21:46:53 Good;Server File Code:501 received:model/0020022658/log/F1696435218/ui.csv length:21133
+16.06.2024 21:46:53 Good;Server File Code:501 received:model/0020022658/log/F1696434198/summary.csv length:98
+16.06.2024 21:46:53 Good;Server File Code:501 received:model/0020022658/log/F1696434198/summary length:320
+16.06.2024 21:46:53 Good;Server File Code:501 received:model/0020022658/log/F1696434198/vbar.log length:1713
+16.06.2024 21:46:54 Good;Server File Code:501 received:model/0020022658/log/F1696434198/ui.csv length:17739
+16.06.2024 21:46:54 Good;Server File Code:501 received:model/0020022658/log/F1696432095/summary.csv length:98
+16.06.2024 21:46:54 Good;Server File Code:501 received:model/0020022658/log/F1696432095/summary length:320
+16.06.2024 21:46:54 Good;Server File Code:501 received:model/0020022658/log/F1696432095/vbar.log length:2247
+16.06.2024 21:46:57 Good;Server File Code:501 received:model/0020022658/log/F1696432095/ui.csv length:21534
+16.06.2024 21:46:57 Good;Server File Code:501 received:model/0020022658/log/F1696429640/summary.csv length:98
+16.06.2024 21:46:57 Good;Server File Code:501 received:model/0020022658/log/F1696429640/summary length:320
+16.06.2024 21:46:57 Good;Server File Code:501 received:model/0020022658/log/F1696429640/vbar.log length:1817
+16.06.2024 21:47:00 Good;Server File Code:501 received:model/0020022658/log/F1696429640/ui.csv length:19085
+16.06.2024 21:47:00 Good;Server File Code:501 received:model/0020022658/log/F1696425127/summary.csv length:98
+16.06.2024 21:47:00 Good;Server File Code:501 received:model/0020022658/log/F1696425127/summary length:320
+16.06.2024 21:47:00 Good;Server File Code:501 received:model/0020022658/log/F1696425127/vbar.log length:1929
+16.06.2024 21:47:03 Good;Server File Code:501 received:model/0020022658/log/F1696425127/ui.csv length:19948
+16.06.2024 21:47:03 Good;Server File Code:501 received:model/0020022658/log/F1696424162/summary.csv length:98
+16.06.2024 21:47:03 Good;Server File Code:501 received:model/0020022658/log/F1696424162/summary length:320
+16.06.2024 21:47:03 Good;Server File Code:501 received:model/0020022658/log/F1696424162/vbar.log length:1958
+16.06.2024 21:47:06 Good;Server File Code:501 received:model/0020022658/log/F1696424162/ui.csv length:18775
+16.06.2024 21:47:06 Good;Server File Code:501 received:model/0020006259/modify.conf length:400
+16.06.2024 21:47:06 Good;Server File Code:501 received:model/0020006259/user.conf length:512
+16.06.2024 21:47:06 Good;Server File Code:501 received:model/0020006259/user2 length:578
+16.06.2024 21:47:06 Good;Server File Code:501 received:model/0020006259/name length:32
+16.06.2024 21:47:06 Good;Server File Code:501 received:model/0020006259/log/F1701616350/summary.csv length:98
+16.06.2024 21:47:07 Good;Server File Code:501 received:model/0020006259/log/F1701616350/summary length:320
+16.06.2024 21:47:07 Good;Server File Code:501 received:model/0020006259/log/F1701616350/vbar.log length:1859
+16.06.2024 21:47:09 Good;Server File Code:501 received:model/0020006259/log/F1701616350/ui.csv length:20341
+16.06.2024 21:47:09 Good;Server File Code:501 received:model/0020006259/log/F1701529908/summary.csv length:98
+16.06.2024 21:47:09 Good;Server File Code:501 received:model/0020006259/log/F1701529908/summary length:320
+16.06.2024 21:47:09 Good;Server File Code:501 received:model/0020006259/log/F1701529908/vbar.log length:2181
+16.06.2024 21:47:11 Good;Server File Code:501 received:model/0020006259/log/F1701529908/ui.csv length:20144
+16.06.2024 21:47:11 Good;Server File Code:501 received:model/0020006259/log/F1701527092/summary.csv length:97
+16.06.2024 21:47:12 Good;Server File Code:501 received:model/0020006259/log/F1701527092/summary length:320
+16.06.2024 21:47:12 Good;Server File Code:501 received:model/0020006259/log/F1701527092/vbar.log length:1592
+16.06.2024 21:47:12 Good;Server File Code:501 received:model/0020006259/log/F1701527092/ui.csv length:8941
+16.06.2024 21:47:12 Good;Server File Code:501 received:model/0020006259/log/F1701526806/summary.csv length:98
+16.06.2024 21:47:12 Good;Server File Code:501 received:model/0020006259/log/F1701526806/summary length:320
+16.06.2024 21:47:13 Good;Server File Code:501 received:model/0020006259/log/F1701526806/vbar.log length:1951
+16.06.2024 21:47:16 Good;Server File Code:501 received:model/0020006259/log/F1701526806/ui.csv length:13097
+16.06.2024 21:47:16 Good;Server File Code:501 received:model/0020006259/log/F1701525613/summary.csv length:95
+16.06.2024 21:47:16 Good;Server File Code:501 received:model/0020006259/log/F1701525613/summary length:320
+16.06.2024 21:47:16 Good;Server File Code:501 received:model/0020006259/log/F1701525613/vbar.log length:2104
+16.06.2024 21:47:16 Good;Server File Code:501 received:model/0020006259/log/F1701525613/ui.csv length:9104
+16.06.2024 21:47:16 Good;Server File Code:501 received:model/0020006259/log/F1700089167/summary.csv length:89
+16.06.2024 21:47:16 Good;Server File Code:501 received:model/0020006259/log/F1700089167/summary length:320
+16.06.2024 21:47:16 Good;Server File Code:501 received:model/0020006259/log/F1700089167/vbar.log length:824
+16.06.2024 21:47:17 Good;Server File Code:501 received:model/0020006259/log/F1700089167/ui.csv length:403
+16.06.2024 21:47:17 Good;Server File Code:501 received:model/0020006259/log/F1682559188/summary.csv length:82
+16.06.2024 21:47:17 Good;Server File Code:501 received:model/0020006259/log/F1682559188/summary length:320
+16.06.2024 21:47:18 Good;Server File Code:501 received:model/0020006259/log/F1682559188/vbar.log length:2225
+16.06.2024 21:47:18 Good;Server File Code:501 received:model/0020043172/user2 length:578
+16.06.2024 21:47:18 Good;Server File Code:501 received:model/0020043172/name length:32
+16.06.2024 21:47:18 Good;Server File Code:501 received:model/0020043172/log/F1712358487/summary.csv length:79
+16.06.2024 21:47:18 Good;Server File Code:501 received:model/0020043172/log/F1712358487/summary length:320
+16.06.2024 21:47:18 Good;Server File Code:501 received:model/0020043172/log/F1712358487/vbar.log length:757
+16.06.2024 21:47:18 Good;Server File Code:501 received:model/0020043172/log/F1712333388/summary.csv length:80
+16.06.2024 21:47:18 Good;Server File Code:501 received:model/0020043172/log/F1712333388/summary length:320
+16.06.2024 21:47:19 Good;Server File Code:501 received:model/0020043172/log/F1712333388/vbar.log length:1508
+16.06.2024 21:47:19 Good;Server File Code:501 received:model/0020043172/log/F1712333188/summary.csv length:80
+16.06.2024 21:47:19 Good;Server File Code:501 received:model/0020043172/log/F1712333188/summary length:320
+16.06.2024 21:47:19 Good;Server File Code:501 received:model/0020043172/log/F1712333188/vbar.log length:1217
+16.06.2024 21:47:19 Good;Server File Code:501 received:model/0020043172/log/F1712333062/summary.csv length:80
+16.06.2024 21:47:19 Good;Server File Code:501 received:model/0020043172/log/F1712333062/summary length:320
+16.06.2024 21:47:20 Good;Server File Code:501 received:model/0020043172/log/F1712333062/vbar.log length:609
+16.06.2024 21:47:20 Good;Server File Code:501 received:model/0020043172/log/F1712332959/summary.csv length:79
+16.06.2024 21:47:20 Good;Server File Code:501 received:model/0020043172/log/F1712332959/summary length:320
+16.06.2024 21:47:20 Good;Server File Code:501 received:model/0020043172/log/F1712332959/vbar.log length:1090
+16.06.2024 21:47:21 Good;Server File Code:501 received:model/0020043172/log/F1712332913/summary.csv length:79
+16.06.2024 21:47:21 Good;Server File Code:501 received:model/0020043172/log/F1712332913/summary length:320
+16.06.2024 21:47:21 Good;Server File Code:501 received:model/0020043172/log/F1712332913/vbar.log length:414
+16.06.2024 21:47:21 Good;Server File Code:501 received:model/0020043172/log/F1712332591/summary.csv length:79
+16.06.2024 21:47:22 Good;Server File Code:501 received:model/0020043172/log/F1712332591/summary length:320
+16.06.2024 21:47:22 Good;Server File Code:501 received:model/0020043172/log/F1712332591/vbar.log length:414
+16.06.2024 21:47:22 Good;Server File Code:501 received:model/0020043172/log/F1712332094/summary.csv length:79
+16.06.2024 21:47:23 Good;Server File Code:501 received:model/0020043172/log/F1712332094/summary length:320
+16.06.2024 21:47:24 Good;Server File Code:501 received:model/0020043172/log/F1712332094/vbar.log length:1254
+16.06.2024 21:47:24 Good;Server File Code:501 received:model/0020043172/log/F1712324168/summary.csv length:81
+16.06.2024 21:47:24 Good;Server File Code:501 received:model/0020043172/log/F1712324168/summary length:320
+16.06.2024 21:47:24 Good;Server File Code:501 received:model/0020043172/log/F1712324168/vbar.log length:416
+16.06.2024 21:47:25 Good;Server File Code:501 received:model/0020047299/user.conf length:512
+16.06.2024 21:47:25 Good;Server File Code:501 received:model/0020047299/user2 length:578
+16.06.2024 21:47:25 Good;Server File Code:501 received:model/0020047299/name length:32
+16.06.2024 21:47:25 Good;Server File Code:501 received:model/0020047299/log/F1718423554/summary.csv length:85
+16.06.2024 21:47:25 Good;Server File Code:501 received:model/0020047299/log/F1718423554/summary length:320
+16.06.2024 21:47:25 Good;Server File Code:501 received:model/0020047299/log/F1718423554/vbar.log length:1427
+16.06.2024 21:47:25 Good;Server File Code:501 received:model/0020047299/log/F1718423554/ui.csv length:1273
+16.06.2024 21:47:26 Good;Server File Code:501 received:model/0020047299/log/F1701528910/summary.csv length:92
+16.06.2024 21:47:26 Good;Server File Code:501 received:model/0020047299/log/F1701528910/summary length:320
+16.06.2024 21:47:26 Good;Server File Code:501 received:model/0020047299/log/F1701528910/vbar.log length:2393
+16.06.2024 21:47:27 Good;Server File Code:501 received:model/0020047299/log/F1701528910/ui.csv length:14343
+16.06.2024 21:47:27 Good;Server File Code:501 received:model/0020047299/log/F1701524981/summary.csv length:93
+16.06.2024 21:47:27 Good;Server File Code:501 received:model/0020047299/log/F1701524981/summary length:320
+16.06.2024 21:47:27 Good;Server File Code:501 received:model/0020047299/log/F1701524981/vbar.log length:1460
+16.06.2024 21:47:29 Good;Server File Code:501 received:model/0020047299/log/F1701524981/ui.csv length:11769
+16.06.2024 21:47:29 Good;Server File Code:501 received:model/0020047299/log/F1699665446/summary.csv length:87
+16.06.2024 21:47:29 Good;Server File Code:501 received:model/0020047299/log/F1699665446/summary length:320
+16.06.2024 21:47:29 Good;Server File Code:501 received:model/0020047299/log/F1699665446/vbar.log length:3347
+16.06.2024 21:47:29 Good;Server File Code:501 received:model/0020047299/log/F1699665446/ui.csv length:2300
+16.06.2024 21:47:29 Good;Server File Code:501 received:model/0020047299/log/F1699660497/summary.csv length:86
+16.06.2024 21:47:29 Good;Server File Code:501 received:model/0020047299/log/F1699660497/summary length:320
+16.06.2024 21:47:30 Good;Server File Code:501 received:model/0020047299/log/F1699660497/vbar.log length:1662
+16.06.2024 21:47:30 Good;Server File Code:501 received:model/0020047299/log/F1699660497/ui.csv length:610
+16.06.2024 21:47:30 Good;Server File Code:501 received:model/0020047299/log/F1699553886/summary.csv length:87
+16.06.2024 21:47:31 Good;Server File Code:501 received:model/0020047299/log/F1699553886/summary length:320
+16.06.2024 21:47:31 Good;Server File Code:501 received:model/0020047299/log/F1699553886/vbar.log length:2415
+16.06.2024 21:47:31 Good;Server File Code:501 received:model/0020047299/log/F1699553886/ui.csv length:1116
+16.06.2024 21:47:32 Good;Server File Code:501 received:model/0020047299/log/F1699553764/summary.csv length:86
+16.06.2024 21:47:32 Good;Server File Code:501 received:model/0020047299/log/F1699553764/summary length:320
+16.06.2024 21:47:32 Good;Server File Code:501 received:model/0020047299/log/F1699553764/vbar.log length:997
+16.06.2024 21:47:32 Good;Server File Code:501 received:model/0020047299/log/F1699553764/ui.csv length:642
+16.06.2024 21:47:33 Good;Server File Code:501 received:model/0020047299/log/F1699553116/summary.csv length:77
+16.06.2024 21:47:33 Good;Server File Code:501 received:model/0020047299/log/F1699553116/summary length:320
+16.06.2024 21:47:34 Good;Server File Code:501 received:model/0020047299/log/F1699553116/vbar.log length:942
+16.06.2024 21:47:35 Good;Server File Code:501 received:model/0020047299/log/F1692123595/summary.csv length:83
+16.06.2024 21:47:35 Good;Server File Code:501 received:model/0020047299/log/F1692123595/summary length:320
+16.06.2024 21:47:35 Good;Server File Code:501 received:model/0020047299/log/F1692123595/vbar.log length:2369
+16.06.2024 21:47:38 Good;Server File Code:501 received:model/0020047299/log/F1692122739/summary.csv length:83
+16.06.2024 21:47:41 Good;Server File Code:501 received:model/0020047299/log/F1692122739/summary length:320
+16.06.2024 21:47:42 Good;Server File Code:501 received:model/0020047299/log/F1692122739/vbar.log length:4859
+16.06.2024 21:47:42 Good;Server File Code:501 received:model/0020009324/user2 length:578
+16.06.2024 21:47:42 Good;Server File Code:501 received:model/0020009324/name length:32
+16.06.2024 21:47:42 Good;Server File Code:501 received:model/0020009324/log/F1714756381/summary.csv length:104
+16.06.2024 21:47:42 Good;Server File Code:501 received:model/0020009324/log/F1714756381/summary length:320
+16.06.2024 21:47:42 Good;Server File Code:501 received:model/0020009324/log/F1714756381/vbar.log length:1815
+16.06.2024 21:47:44 Good;Server File Code:501 received:model/0020009324/log/F1714756381/ui.csv length:17648
+16.06.2024 21:47:44 Good;Server File Code:501 received:model/0020009324/log/F1714756359/summary.csv length:93
+16.06.2024 21:47:44 Good;Server File Code:501 received:model/0020009324/log/F1714756359/summary length:320
+16.06.2024 21:47:44 Good;Server File Code:501 received:model/0020009324/log/F1714756359/vbar.log length:574
+16.06.2024 21:47:44 Good;Server File Code:501 received:model/0020009324/log/F1714751462/summary.csv length:104
+16.06.2024 21:47:44 Good;Server File Code:501 received:model/0020009324/log/F1714751462/summary length:320
+16.06.2024 21:47:44 Good;Server File Code:501 received:model/0020009324/log/F1714751462/vbar.log length:1811
+16.06.2024 21:47:47 Good;Server File Code:501 received:model/0020009324/log/F1714751462/ui.csv length:21164
+16.06.2024 21:47:47 Good;Server File Code:501 received:model/0020009324/log/F1714751447/summary.csv length:93
+16.06.2024 21:47:47 Good;Server File Code:501 received:model/0020009324/log/F1714751447/summary length:320
+16.06.2024 21:47:47 Good;Server File Code:501 received:model/0020009324/log/F1714751447/vbar.log length:574
+16.06.2024 21:47:47 Good;Server File Code:501 received:model/0020009324/log/F1714673086/summary.csv length:104
+16.06.2024 21:47:47 Good;Server File Code:501 received:model/0020009324/log/F1714673086/summary length:320
+16.06.2024 21:47:48 Good;Server File Code:501 received:model/0020009324/log/F1714673086/vbar.log length:1638
+16.06.2024 21:47:50 Good;Server File Code:501 received:model/0020009324/log/F1714673086/ui.csv length:16455
+16.06.2024 21:47:50 Good;Server File Code:501 received:model/0020009324/log/F1714673044/summary.csv length:93
+16.06.2024 21:47:50 Good;Server File Code:501 received:model/0020009324/log/F1714673044/summary length:320
+16.06.2024 21:47:50 Good;Server File Code:501 received:model/0020009324/log/F1714673044/vbar.log length:574
+16.06.2024 21:47:50 Good;Server File Code:501 received:model/0020009324/log/F1714669299/summary.csv length:104
+16.06.2024 21:47:51 Good;Server File Code:501 received:model/0020009324/log/F1714669299/summary length:320
+16.06.2024 21:47:52 Good;Server File Code:501 received:model/0020009324/log/F1714669299/vbar.log length:1746
+16.06.2024 21:47:54 Good;Server File Code:501 received:model/0020009324/log/F1714669299/ui.csv length:18598
+16.06.2024 21:47:54 Good;Server File Code:501 received:model/0020009324/log/F1714668151/summary.csv length:104
+16.06.2024 21:47:54 Good;Server File Code:501 received:model/0020009324/log/F1714668151/summary length:320
+16.06.2024 21:47:54 Good;Server File Code:501 received:model/0020009324/log/F1714668151/vbar.log length:1350
+16.06.2024 21:47:55 Good;Server File Code:501 received:model/0020009324/log/F1714668151/ui.csv length:11023
+16.06.2024 21:47:55 Good;Server File Code:501 received:model/0020009324/log/F1714664668/summary.csv length:104
+16.06.2024 21:47:55 Good;Server File Code:501 received:model/0020009324/log/F1714664668/summary length:320
+16.06.2024 21:47:55 Good;Server File Code:501 received:model/0020009324/log/F1714664668/vbar.log length:1587
+16.06.2024 21:47:56 Good;Server File Code:501 received:model/0020009324/log/F1714664668/ui.csv length:16493
+16.06.2024 21:47:56 Good;Server File Code:501 received:model/0020009324/log/F1706753674/summary.csv length:88
+16.06.2024 21:47:56 Good;Server File Code:501 received:model/0020009324/log/F1706753674/summary length:320
+16.06.2024 21:47:57 Good;Server File Code:501 received:model/0020009324/log/F1706753674/vbar.log length:2858
+16.06.2024 21:47:57 Good;Server File Code:501 received:model/0020009324/log/F1706753674/ui.csv length:1465
+16.06.2024 21:47:57 Good;Server File Code:501 received:model/0027001849/user.conf length:512
+16.06.2024 21:47:57 Good;Server File Code:501 received:model/0027001849/user2 length:578
+16.06.2024 21:47:57 Good;Server File Code:501 received:model/0027001849/name length:32
+16.06.2024 21:47:57 Good;Server File Code:501 received:model/0027001849/log/F1696447786/summary.csv length:86
+16.06.2024 21:47:57 Good;Server File Code:501 received:model/0027001849/log/F1696447786/summary length:320
+16.06.2024 21:47:59 Good;Server File Code:501 received:model/0027001849/log/F1696447786/vbar.log length:18283
+16.06.2024 21:52:38 Error;Par Check 00000000 lcd_functions.c:1817
+16.06.2024 21:52:58 Error;Draw screen section: Source out of screen w:480 h:160 rect x:0 y:0 w:656 h:310
+16.06.2024 21:53:12 Error;Par Check 00000000 lcd_functions.c:1817
+16.06.2024 22:42:02 Error;Par Check 00000000 lcd_functions.c:1817
+16.06.2024 22:42:04 Error;Par Check 00000000 lcd_functions.c:1817
+16.06.2024 22:42:06 Error;Par Check 00000000 lcd_functions.c:1817
+16.06.2024 22:42:07 Error;Par Check 00000000 lcd_functions.c:1817
+16.06.2024 22:42:09 Error;Par Check 00000000 lcd_functions.c:1817
+16.06.2024 22:42:10 Error;Par Check 00000000 lcd_functions.c:1817
+16.06.2024 22:42:12 Error;Par Check 00000000 lcd_functions.c:1817
+16.06.2024 22:42:13 Error;Par Check 00000000 lcd_functions.c:1817
+16.06.2024 22:43:07 Good;Server File Code:501 received:/images/user1.bmp length:89738
+16.06.2024 22:43:39 Good;Server File Code:501 received:battery/bt_1/status length:40
+16.06.2024 22:43:39 Good;Server File Code:501 received:battery/bt_1/log.csv length:69
+16.06.2024 22:43:39 Good;Server File Code:501 received:battery/bt_1/name length:32
+16.06.2024 22:43:39 Good;Server File Code:501 received:battery/bt_6/status length:40
+16.06.2024 22:43:40 Good;Server File Code:501 received:battery/bt_6/log.csv length:1009
+16.06.2024 22:43:40 Good;Server File Code:501 received:battery/bt_6/name length:32
+16.06.2024 22:43:40 Good;Server File Code:501 received:battery/bt_2/status length:40
+16.06.2024 22:43:41 Good;Server File Code:501 received:battery/bt_2/log.csv length:2724
+16.06.2024 22:43:42 Good;Server File Code:501 received:battery/bt_2/name length:32
+16.06.2024 22:43:42 Good;Server File Code:501 received:battery/bt_5/status length:40
+16.06.2024 22:43:48 Good;Server File Code:501 received:battery/bt_5/log.csv length:1584
+16.06.2024 22:43:48 Good;Server File Code:501 received:battery/bt_5/name length:32
+16.06.2024 22:43:49 Good;Server File Code:501 received:battery/bt_3/status length:40
+16.06.2024 22:43:49 Good;Server File Code:501 received:battery/bt_3/log.csv length:1471
+16.06.2024 22:43:49 Good;Server File Code:501 received:battery/bt_3/name length:32
+16.06.2024 22:43:59 Good;Server File Code:501 received:images/user1.bmp length:89738
+16.06.2024 22:44:08 Good;Server File Code:501 received:images/user2.bmp length:89666
+16.06.2024 22:44:10 Good;Server File Code:501 received:images/user2.png length:28093
+16.06.2024 22:44:10 Good;Server File Code:501 received:images/user1.png length:12287
+16.06.2024 22:44:10 Good;Server File Code:501 received:user/default_vbar.xml length:789
+16.06.2024 22:44:11 Good;Server File Code:501 received:user/default_vcopter.xml length:679
+16.06.2024 22:44:12 Good;Server File Code:501 received:user/SAB_RAW_Puma.xml length:734
+16.06.2024 22:44:12 Good;Server File Code:501 received:user/default_vplane.xml length:785
+16.06.2024 22:44:12 Good;Server File Code:501 received:user/default_vbasic.xml length:785
+16.06.2024 22:44:13 Good;Server File Code:501 received:vbar/GAUI___X7f length:2400
+16.06.2024 22:44:14 Good;Server File Code:501 received:vbar/RAW700 length:2400
+16.06.2024 22:44:14 Good;Server File Code:501 received:vbar/GAUI_X7 length:2400
+16.06.2024 22:44:15 Good;Server File Code:501 received:sys/log/tx_name length:44
+16.06.2024 22:44:15 Good;Server File Code:501 received:model/0020047887/modify.conf length:400
+16.06.2024 22:44:15 Good;Server File Code:501 received:model/0020047887/user2 length:578
+16.06.2024 22:44:16 Good;Server File Code:501 received:model/0020047887/name length:32
+16.06.2024 22:44:16 Good;Server File Code:501 received:model/0020047887/log/F1715348208/summary.csv length:94
+16.06.2024 22:44:18 Good;Server File Code:501 received:model/0020047887/log/F1715348208/summary length:320
+16.06.2024 22:44:18 Good;Server File Code:501 received:model/0020047887/log/F1715348208/vbar.log length:1533
+16.06.2024 22:44:20 Good;Server File Code:501 received:model/0020047887/log/F1715348208/ui.csv length:8225
+16.06.2024 22:44:20 Good;Server File Code:501 received:model/0020047887/log/F1715347089/summary.csv length:92
+16.06.2024 22:44:21 Good;Server File Code:501 received:model/0020047887/log/F1715347089/summary length:320
+16.06.2024 22:44:21 Good;Server File Code:501 received:model/0020047887/log/F1715347089/vbar.log length:998
+16.06.2024 22:44:22 Good;Server File Code:501 received:model/0020047887/log/F1715347089/ui.csv length:2806
+16.06.2024 22:44:22 Good;Server File Code:501 received:model/0020047887/log/F1714995274/summary.csv length:90
+16.06.2024 22:44:22 Good;Server File Code:501 received:model/0020047887/log/F1714995274/summary length:320
+16.06.2024 22:44:23 Good;Server File Code:501 received:model/0020047887/log/F1714995274/vbar.log length:571
+16.06.2024 22:44:23 Good;Server File Code:501 received:model/0020047887/log/F1714995115/summary.csv length:90
+16.06.2024 22:44:23 Good;Server File Code:501 received:model/0020047887/log/F1714995115/summary length:320
+16.06.2024 22:44:23 Good;Server File Code:501 received:model/0020047887/log/F1714995115/vbar.log length:571
+16.06.2024 22:44:23 Good;Server File Code:501 received:model/0020047887/log/F1714761507/summary.csv length:101
+16.06.2024 22:44:24 Good;Server File Code:501 received:model/0020047887/log/F1714761507/summary length:320
+16.06.2024 22:44:24 Good;Server File Code:501 received:model/0020047887/log/F1714761507/vbar.log length:1739
+16.06.2024 22:44:26 Good;Server File Code:501 received:model/0020047887/log/F1714761507/ui.csv length:17480
+16.06.2024 22:44:26 Good;Server File Code:501 received:model/0020047887/log/F1714761464/summary.csv length:90
+16.06.2024 22:44:26 Good;Server File Code:501 received:model/0020047887/log/F1714761464/summary length:320
+16.06.2024 22:44:27 Good;Server File Code:501 received:model/0020047887/log/F1714761464/vbar.log length:987
+16.06.2024 22:44:27 Good;Server File Code:501 received:model/0020047887/log/F1712337389/summary.csv length:101
+16.06.2024 22:44:28 Good;Server File Code:501 received:model/0020047887/log/F1712337389/summary length:320
+16.06.2024 22:44:28 Good;Server File Code:501 received:model/0020047887/log/F1712337389/vbar.log length:2275
+16.06.2024 22:44:31 Good;Server File Code:501 received:model/0020047887/log/F1712337389/ui.csv length:21374
+16.06.2024 22:44:31 Good;Server File Code:501 received:model/0020047887/log/F1712335839/summary.csv length:101
+16.06.2024 22:44:31 Good;Server File Code:501 received:model/0020047887/log/F1712335839/summary length:320
+16.06.2024 22:44:31 Good;Server File Code:501 received:model/0020047887/log/F1712335839/vbar.log length:2012
+16.06.2024 22:44:33 Good;Server File Code:501 received:model/0020047887/log/F1712335839/ui.csv length:21252
+16.06.2024 22:44:34 Good;Server File Code:501 received:model/0020047887/log/F1712334703/summary.csv length:101
+16.06.2024 22:44:34 Good;Server File Code:501 received:model/0020047887/log/F1712334703/summary length:320
+16.06.2024 22:44:34 Good;Server File Code:501 received:model/0020047887/log/F1712334703/vbar.log length:3782
+16.06.2024 22:44:38 Good;Server File Code:501 received:model/0020047887/log/F1712334703/ui.csv length:25547
+16.06.2024 22:44:38 Good;Server File Code:501 received:model/0020047887/log/F1696261590/summary.csv length:99
+16.06.2024 22:44:39 Good;Server File Code:501 received:model/0020047887/log/F1696261590/summary length:320
+16.06.2024 22:44:39 Good;Server File Code:501 received:model/0020047887/log/F1696261590/vbar.log length:1509
+16.06.2024 22:44:40 Good;Server File Code:501 received:model/0020047887/log/F1696261590/ui.csv length:11258
+16.06.2024 22:44:40 Good;Server File Code:501 received:model/0020044992/user2 length:578
+16.06.2024 22:44:41 Good;Server File Code:501 received:model/0020044992/name length:32
+16.06.2024 22:44:41 Good;Server File Code:501 received:model/0020033395/user2 length:578
+16.06.2024 22:44:42 Good;Server File Code:501 received:model/0020033395/name length:32
+16.06.2024 22:44:42 Good;Server File Code:501 received:model/0020033395/log/F1714612150/summary.csv length:85
+16.06.2024 22:44:43 Good;Server File Code:501 received:model/0020033395/log/F1714612150/summary length:320
+16.06.2024 22:44:43 Good;Server File Code:501 received:model/0020033395/log/F1714612150/vbar.log length:1616
+16.06.2024 22:44:43 Good;Server File Code:501 received:model/0020033395/log/F1714611712/summary.csv length:85
+16.06.2024 22:44:44 Good;Server File Code:501 received:model/0020033395/log/F1714611712/summary length:320
+16.06.2024 22:44:44 Good;Server File Code:501 received:model/0020033395/log/F1714611712/vbar.log length:4359
+16.06.2024 22:44:44 Good;Server File Code:501 received:model/0020033395/log/F1714610288/summary.csv length:85
+16.06.2024 22:44:45 Good;Server File Code:501 received:model/0020033395/log/F1714610288/summary length:320
+16.06.2024 22:44:45 Good;Server File Code:501 received:model/0020033395/log/F1714610288/vbar.log length:559
+16.06.2024 22:44:45 Good;Server File Code:501 received:model/0020033395/log/F1714610013/summary.csv length:85
+16.06.2024 22:44:45 Good;Server File Code:501 received:model/0020033395/log/F1714610013/summary length:320
+16.06.2024 22:44:45 Good;Server File Code:501 received:model/0020033395/log/F1714610013/vbar.log length:1113
+16.06.2024 22:44:46 Good;Server File Code:501 received:model/0020022658/user2 length:578
+16.06.2024 22:44:46 Good;Server File Code:501 received:model/0020022658/name length:32
+16.06.2024 22:44:46 Good;Server File Code:501 received:model/0020022658/log/F1717943414/vbar.log length:1930
+16.06.2024 22:44:46 Good;Server File Code:501 received:model/0020022658/log/F1717939140/summary.csv length:91
+16.06.2024 22:44:47 Good;Server File Code:501 received:model/0020022658/log/F1717939140/summary length:320
+16.06.2024 22:44:48 Good;Server File Code:501 received:model/0020022658/log/F1717939140/vbar.log length:816
+16.06.2024 22:44:48 Good;Server File Code:501 received:model/0020022658/log/F1717862882/summary.csv length:85
+16.06.2024 22:44:49 Good;Server File Code:501 received:model/0020022658/log/F1717862882/summary length:320
+16.06.2024 22:44:49 Good;Server File Code:501 received:model/0020022658/log/F1717862882/vbar.log length:615
+16.06.2024 22:44:49 Good;Server File Code:501 received:model/0020022658/log/F1696437238/summary.csv length:98
+16.06.2024 22:44:50 Good;Server File Code:501 received:model/0020022658/log/F1696437238/summary length:320
+16.06.2024 22:44:50 Good;Server File Code:501 received:model/0020022658/log/F1696437238/vbar.log length:1859
+16.06.2024 22:44:53 Good;Server File Code:501 received:model/0020022658/log/F1696437238/ui.csv length:18325
+16.06.2024 22:44:53 Good;Server File Code:501 received:model/0020022658/log/F1696435218/summary.csv length:98
+16.06.2024 22:44:53 Good;Server File Code:501 received:model/0020022658/log/F1696435218/summary length:320
+16.06.2024 22:45:05 Good;Server File Code:501 received:model/0020022658/log/F1696435218/vbar.log length:1982
+16.06.2024 22:45:07 Good;Server File Code:501 received:model/0020022658/log/F1696435218/ui.csv length:21133
+16.06.2024 22:45:07 Good;Server File Code:501 received:model/0020022658/log/F1696434198/summary.csv length:98
+16.06.2024 22:45:08 Good;Server File Code:501 received:model/0020022658/log/F1696434198/summary length:320
+16.06.2024 22:45:08 Good;Server File Code:501 received:model/0020022658/log/F1696434198/vbar.log length:1713
+16.06.2024 22:45:10 Good;Server File Code:501 received:model/0020022658/log/F1696434198/ui.csv length:17739
+16.06.2024 22:45:10 Good;Server File Code:501 received:model/0020022658/log/F1696432095/summary.csv length:98
+16.06.2024 22:45:11 Good;Server File Code:501 received:model/0020022658/log/F1696432095/summary length:320
+16.06.2024 22:45:11 Good;Server File Code:501 received:model/0020022658/log/F1696432095/vbar.log length:2247
+16.06.2024 22:45:15 Good;Server File Code:501 received:model/0020022658/log/F1696432095/ui.csv length:21534
+16.06.2024 22:45:16 Good;Server File Code:501 received:model/0020022658/log/F1696429640/summary.csv length:98
+16.06.2024 22:45:16 Good;Server File Code:501 received:model/0020022658/log/F1696429640/summary length:320
+16.06.2024 22:45:16 Good;Server File Code:501 received:model/0020022658/log/F1696429640/vbar.log length:1817
+16.06.2024 22:45:17 Good;Server File Code:501 received:model/0020022658/log/F1696429640/ui.csv length:19085
+16.06.2024 22:45:17 Good;Server File Code:501 received:model/0020022658/log/F1696425127/summary.csv length:98
+16.06.2024 22:45:18 Good;Server File Code:501 received:model/0020022658/log/F1696425127/summary length:320
+16.06.2024 22:45:19 Good;Server File Code:501 received:model/0020022658/log/F1696425127/vbar.log length:1929
+16.06.2024 22:45:23 Good;Server File Code:501 received:model/0020022658/log/F1696425127/ui.csv length:19948
+16.06.2024 22:45:24 Good;Server File Code:501 received:model/0020022658/log/F1696424162/summary.csv length:98
+16.06.2024 22:45:24 Good;Server File Code:501 received:model/0020022658/log/F1696424162/summary length:320
+16.06.2024 22:45:24 Good;Server File Code:501 received:model/0020022658/log/F1696424162/vbar.log length:1958
+16.06.2024 22:45:26 Good;Server File Code:501 received:model/0020022658/log/F1696424162/ui.csv length:18775
+16.06.2024 22:45:26 Good;Server File Code:501 received:model/0020006259/modify.conf length:400
+16.06.2024 22:45:26 Good;Server File Code:501 received:model/0020006259/user.conf length:512
+16.06.2024 22:45:26 Good;Server File Code:501 received:model/0020006259/user2 length:578
+16.06.2024 22:45:27 Good;Server File Code:501 received:model/0020006259/name length:32
+16.06.2024 22:45:27 Good;Server File Code:501 received:model/0020006259/log/F1701616350/summary.csv length:98
+16.06.2024 22:45:27 Good;Server File Code:501 received:model/0020006259/log/F1701616350/summary length:320
+16.06.2024 22:45:28 Good;Server File Code:501 received:model/0020006259/log/F1701616350/vbar.log length:1859
+16.06.2024 22:45:29 Good;Server File Code:501 received:model/0020006259/log/F1701616350/ui.csv length:20341
+16.06.2024 22:45:29 Good;Server File Code:501 received:model/0020006259/log/F1701529908/summary.csv length:98
+16.06.2024 22:45:30 Good;Server File Code:501 received:model/0020006259/log/F1701529908/summary length:320
+16.06.2024 22:45:30 Good;Server File Code:501 received:model/0020006259/log/F1701529908/vbar.log length:2181
+16.06.2024 22:45:32 Good;Server File Code:501 received:model/0020006259/log/F1701529908/ui.csv length:20144
+16.06.2024 22:45:32 Good;Server File Code:501 received:model/0020006259/log/F1701527092/summary.csv length:97
+16.06.2024 22:45:33 Good;Server File Code:501 received:model/0020006259/log/F1701527092/summary length:320
+16.06.2024 22:45:33 Good;Server File Code:501 received:model/0020006259/log/F1701527092/vbar.log length:1592
+16.06.2024 22:45:34 Good;Server File Code:501 received:model/0020006259/log/F1701527092/ui.csv length:8941
+16.06.2024 22:45:35 Good;Server File Code:501 received:model/0020006259/log/F1701526806/summary.csv length:98
+16.06.2024 22:45:35 Good;Server File Code:501 received:model/0020006259/log/F1701526806/summary length:320
+16.06.2024 22:45:36 Good;Server File Code:501 received:model/0020006259/log/F1701526806/vbar.log length:1951
+16.06.2024 22:45:38 Good;Server File Code:501 received:model/0020006259/log/F1701526806/ui.csv length:13097
+16.06.2024 22:45:38 Good;Server File Code:501 received:model/0020006259/log/F1701525613/summary.csv length:95
+16.06.2024 22:45:39 Good;Server File Code:501 received:model/0020006259/log/F1701525613/summary length:320
+16.06.2024 22:45:39 Good;Server File Code:501 received:model/0020006259/log/F1701525613/vbar.log length:2104
+16.06.2024 22:45:41 Good;Server File Code:501 received:model/0020006259/log/F1701525613/ui.csv length:9104
+16.06.2024 22:45:42 Good;Server File Code:501 received:model/0020006259/log/F1700089167/summary.csv length:89
+16.06.2024 22:45:42 Good;Server File Code:501 received:model/0020006259/log/F1700089167/summary length:320
+16.06.2024 22:45:42 Good;Server File Code:501 received:model/0020006259/log/F1700089167/vbar.log length:824
+16.06.2024 22:45:43 Good;Server File Code:501 received:model/0020006259/log/F1700089167/ui.csv length:403
+16.06.2024 22:45:44 Good;Server File Code:501 received:model/0020006259/log/F1682559188/summary.csv length:82
+16.06.2024 22:45:44 Good;Server File Code:501 received:model/0020006259/log/F1682559188/summary length:320
+16.06.2024 22:45:44 Good;Server File Code:501 received:model/0020006259/log/F1682559188/vbar.log length:2225
+16.06.2024 22:45:45 Good;Server File Code:501 received:model/0020047299/user.conf length:512
+16.06.2024 22:45:45 Good;Server File Code:501 received:model/0020047299/user2 length:521
+16.06.2024 22:45:45 Good;Server File Code:501 received:model/0020047299/name length:32
+16.06.2024 22:45:45 Good;Server File Code:501 received:model/0020047299/log/F1701528910/summary.csv length:92
+16.06.2024 22:45:46 Good;Server File Code:501 received:model/0020047299/log/F1701528910/summary length:320
+16.06.2024 22:45:46 Good;Server File Code:501 received:model/0020047299/log/F1701528910/vbar.log length:2393
+16.06.2024 22:45:47 Good;Server File Code:501 received:model/0020047299/log/F1701528910/ui.csv length:14343
+16.06.2024 22:45:47 Good;Server File Code:501 received:model/0020047299/log/F1701524981/summary.csv length:93
+16.06.2024 22:45:48 Good;Server File Code:501 received:model/0020047299/log/F1701524981/summary length:320
+16.06.2024 22:45:48 Good;Server File Code:501 received:model/0020047299/log/F1701524981/vbar.log length:1460
+16.06.2024 22:45:49 Good;Server File Code:501 received:model/0020047299/log/F1701524981/ui.csv length:11769
+16.06.2024 22:45:49 Good;Server File Code:501 received:model/0020047299/log/F1699665446/summary.csv length:87
+16.06.2024 22:45:50 Good;Server File Code:501 received:model/0020047299/log/F1699665446/summary length:320
+16.06.2024 22:45:50 Good;Server File Code:501 received:model/0020047299/log/F1699665446/vbar.log length:3347
+16.06.2024 22:45:51 Good;Server File Code:501 received:model/0020047299/log/F1699665446/ui.csv length:2300
+16.06.2024 22:45:52 Good;Server File Code:501 received:model/0020047299/log/F1699660497/summary.csv length:86
+16.06.2024 22:45:52 Good;Server File Code:501 received:model/0020047299/log/F1699660497/summary length:320
+16.06.2024 22:45:52 Good;Server File Code:501 received:model/0020047299/log/F1699660497/vbar.log length:1662
+16.06.2024 22:45:52 Good;Server File Code:501 received:model/0020047299/log/F1699660497/ui.csv length:610
+16.06.2024 22:45:52 Good;Server File Code:501 received:model/0020047299/log/F1699553886/summary.csv length:87
+16.06.2024 22:45:53 Good;Server File Code:501 received:model/0020047299/log/F1699553886/summary length:320
+16.06.2024 22:45:53 Good;Server File Code:501 received:model/0020047299/log/F1699553886/vbar.log length:2415
+16.06.2024 22:45:54 Good;Server File Code:501 received:model/0020047299/log/F1699553886/ui.csv length:1116
+16.06.2024 22:45:55 Good;Server File Code:501 received:model/0020047299/log/F1699553764/summary.csv length:86
+16.06.2024 22:45:55 Good;Server File Code:501 received:model/0020047299/log/F1699553764/summary length:320
+16.06.2024 22:45:55 Good;Server File Code:501 received:model/0020047299/log/F1699553764/vbar.log length:997
+16.06.2024 22:45:57 Good;Server File Code:501 received:model/0020047299/log/F1699553764/ui.csv length:642
+16.06.2024 22:45:57 Good;Server File Code:501 received:model/0020047299/log/F1699553116/summary.csv length:77
+16.06.2024 22:45:57 Good;Server File Code:501 received:model/0020047299/log/F1699553116/summary length:320
+16.06.2024 22:45:58 Good;Server File Code:501 received:model/0020047299/log/F1699553116/vbar.log length:942
+16.06.2024 22:45:59 Good;Server File Code:501 received:model/0020047299/log/F1692123595/summary.csv length:83
+16.06.2024 22:45:59 Good;Server File Code:501 received:model/0020047299/log/F1692123595/summary length:320
+16.06.2024 22:45:59 Good;Server File Code:501 received:model/0020047299/log/F1692123595/vbar.log length:2369
+16.06.2024 22:45:59 Good;Server File Code:501 received:model/0020047299/log/F1692122739/summary.csv length:83
+16.06.2024 22:46:00 Good;Server File Code:501 received:model/0020047299/log/F1692122739/summary length:320
+16.06.2024 22:46:01 Good;Server File Code:501 received:model/0020047299/log/F1692122739/vbar.log length:4859
+16.06.2024 22:46:01 Good;Server File Code:501 received:model/0020047299/log/F1692118990/summary.csv length:82
+16.06.2024 22:46:01 Good;Server File Code:501 received:model/0020047299/log/F1692118990/summary length:320
+16.06.2024 22:46:01 Good;Server File Code:501 received:model/0020047299/log/F1692118990/vbar.log length:1717
+16.06.2024 22:46:02 Good;Server File Code:501 received:model/0020009324/user2 length:578
+16.06.2024 22:46:02 Good;Server File Code:501 received:model/0020009324/name length:32
+16.06.2024 22:46:02 Good;Server File Code:501 received:model/0020009324/log/F1714756381/summary.csv length:104
+16.06.2024 22:46:03 Good;Server File Code:501 received:model/0020009324/log/F1714756381/summary length:320
+16.06.2024 22:46:04 Good;Server File Code:501 received:model/0020009324/log/F1714756381/vbar.log length:1815
+16.06.2024 22:46:06 Good;Server File Code:501 received:model/0020009324/log/F1714756381/ui.csv length:17648
+16.06.2024 22:46:06 Good;Server File Code:501 received:model/0020009324/log/F1714756359/summary.csv length:93
+16.06.2024 22:46:06 Good;Server File Code:501 received:model/0020009324/log/F1714756359/summary length:320
+16.06.2024 22:46:06 Good;Server File Code:501 received:model/0020009324/log/F1714756359/vbar.log length:574
+16.06.2024 22:46:07 Good;Server File Code:501 received:model/0020009324/log/F1714751462/summary.csv length:104
+16.06.2024 22:46:07 Good;Server File Code:501 received:model/0020009324/log/F1714751462/summary length:320
+16.06.2024 22:46:08 Good;Server File Code:501 received:model/0020009324/log/F1714751462/vbar.log length:1811
+16.06.2024 22:46:12 Good;Server File Code:501 received:model/0020009324/log/F1714751462/ui.csv length:21164
+16.06.2024 22:46:13 Good;Server File Code:501 received:model/0020009324/log/F1714751447/summary.csv length:93
+16.06.2024 22:46:13 Good;Server File Code:501 received:model/0020009324/log/F1714751447/summary length:320
+16.06.2024 22:46:13 Good;Server File Code:501 received:model/0020009324/log/F1714751447/vbar.log length:574
+16.06.2024 22:46:13 Good;Server File Code:501 received:model/0020009324/log/F1714673086/summary.csv length:104
+16.06.2024 22:46:14 Good;Server File Code:501 received:model/0020009324/log/F1714673086/summary length:320
+16.06.2024 22:46:14 Good;Server File Code:501 received:model/0020009324/log/F1714673086/vbar.log length:1638
+16.06.2024 22:46:15 Good;Server File Code:501 received:model/0020009324/log/F1714673086/ui.csv length:16455
+16.06.2024 22:46:16 Good;Server File Code:501 received:model/0020009324/log/F1714673044/summary.csv length:93
+16.06.2024 22:46:16 Good;Server File Code:501 received:model/0020009324/log/F1714673044/summary length:320
+16.06.2024 22:46:16 Good;Server File Code:501 received:model/0020009324/log/F1714673044/vbar.log length:574
+16.06.2024 22:46:16 Good;Server File Code:501 received:model/0020009324/log/F1714669299/summary.csv length:104
+16.06.2024 22:46:17 Good;Server File Code:501 received:model/0020009324/log/F1714669299/summary length:320
+16.06.2024 22:46:17 Good;Server File Code:501 received:model/0020009324/log/F1714669299/vbar.log length:1746
+16.06.2024 22:46:19 Good;Server File Code:501 received:model/0020009324/log/F1714669299/ui.csv length:18598
+16.06.2024 22:46:19 Good;Server File Code:501 received:model/0020009324/log/F1714668151/summary.csv length:104
+16.06.2024 22:46:20 Good;Server File Code:501 received:model/0020009324/log/F1714668151/summary length:320
+16.06.2024 22:46:21 Good;Server File Code:501 received:model/0020009324/log/F1714668151/vbar.log length:1350
+16.06.2024 22:46:21 Good;Server File Code:501 received:model/0020009324/log/F1714668151/ui.csv length:11023
+16.06.2024 22:46:21 Good;Server File Code:501 received:model/0020009324/log/F1714664668/summary.csv length:104
+16.06.2024 22:46:22 Good;Server File Code:501 received:model/0020009324/log/F1714664668/summary length:320
+16.06.2024 22:46:22 Good;Server File Code:501 received:model/0020009324/log/F1714664668/vbar.log length:1587
+16.06.2024 22:46:25 Good;Server File Code:501 received:model/0020009324/log/F1714664668/ui.csv length:16493
+16.06.2024 22:46:25 Good;Server File Code:501 received:model/0020009324/log/F1706753674/summary.csv length:88
+16.06.2024 22:46:25 Good;Server File Code:501 received:model/0020009324/log/F1706753674/summary length:320
+16.06.2024 22:46:25 Good;Server File Code:501 received:model/0020009324/log/F1706753674/vbar.log length:2858
+16.06.2024 22:46:26 Good;Server File Code:501 received:model/0020009324/log/F1706753674/ui.csv length:1465
+16.06.2024 22:53:11 Error;Par Check 00000000 lcd_functions.c:1817
+17.06.2024 00:49:05 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+17.06.2024 00:56:30 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+17.06.2024 01:46:10 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+01.01.1970 08:00:04 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+17.06.2024 02:53:37 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:53:38 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:53:38 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:53:38 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:53:39 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:53:40 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:53:41 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:53:41 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 02:53:41 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:53:41 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 02:53:41 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+17.06.2024 02:53:41 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:53:42 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:53:42 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:53:43 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:53:43 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:53:44 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:53:44 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:53:45 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:53:45 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+17.06.2024 02:53:45 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:53:46 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:53:47 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:53:47 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:53:48 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:53:48 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:53:49 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:53:49 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:53:50 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:53:50 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:53:51 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:53:51 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:53:52 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:53:52 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:53:53 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:53:53 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:53:54 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:53:55 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:53:56 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:54:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:70 w:24 h:17
+17.06.2024 02:54:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 02:54:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:54:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:54:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+17.06.2024 02:54:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 02:54:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 02:54:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 02:54:08 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 02:54:08 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 02:54:08 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:54:09 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:54:09 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 02:54:09 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:70 w:24 h:17
+17.06.2024 02:54:10 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:54:11 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:54:12 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:54:13 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:54:14 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:55:31 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+17.06.2024 02:55:37 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:55:38 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:55:38 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:55:39 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:55:40 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:55:41 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:55:42 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:55:45 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 02:55:45 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:55:45 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:55:45 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+17.06.2024 02:55:45 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 02:55:45 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 02:55:45 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 02:55:46 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 02:55:46 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 02:55:46 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:55:46 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:70 w:24 h:17
+17.06.2024 02:55:47 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 02:55:48 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 02:55:49 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 02:55:49 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 02:55:49 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:55:50 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:58:48 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+17.06.2024 02:59:06 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:59:06 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 02:59:06 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 02:59:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 02:59:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 02:59:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 02:59:08 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 02:59:08 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 02:59:08 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:59:09 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:59:09 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 02:59:10 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:59:11 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:59:12 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:59:12 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+17.06.2024 02:59:13 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+17.06.2024 02:59:13 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 02:59:13 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 02:59:13 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 02:59:13 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 02:59:14 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 02:59:14 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 02:59:14 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:59:15 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:59:15 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 02:59:15 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:70 w:24 h:17
+17.06.2024 02:59:15 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 02:59:15 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:59:16 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:59:16 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 02:59:16 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:59:16 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+17.06.2024 02:59:16 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 02:59:16 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 02:59:16 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 02:59:16 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:59:17 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:59:17 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 02:59:18 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:59:19 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:59:20 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 02:59:22 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:59:22 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:59:23 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:59:23 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:59:23 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:70 w:24 h:17
+17.06.2024 02:59:24 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:59:24 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:59:24 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:70 w:24 h:17
+17.06.2024 02:59:24 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:59:25 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:59:25 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 02:59:25 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+17.06.2024 02:59:25 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:59:26 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:59:27 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:59:28 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:59:29 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:59:38 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:59:38 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:70 w:24 h:17
+17.06.2024 02:59:38 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:59:39 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:59:39 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 02:59:39 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:70 w:24 h:17
+17.06.2024 02:59:39 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:59:40 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:59:40 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:70 w:24 h:17
+17.06.2024 02:59:41 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:59:41 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:70 w:24 h:17
+17.06.2024 02:59:42 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:59:43 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:59:44 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:59:45 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 02:59:45 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 02:59:46 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 03:01:00 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 03:01:01 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 03:01:13 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 03:01:13 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 03:01:14 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 03:01:15 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 03:01:16 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 03:01:16 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 03:01:17 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 03:01:17 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 03:01:17 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:70 w:24 h:17
+17.06.2024 03:01:18 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 03:01:18 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:70 w:24 h:17
+17.06.2024 03:01:18 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 03:01:18 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 03:01:19 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 03:01:21 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:01:21 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:70 w:24 h:17
+17.06.2024 03:01:21 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 03:01:22 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:01:22 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 03:01:23 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:01:23 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 03:01:23 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:70 w:24 h:17
+17.06.2024 03:01:24 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:01:25 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:01:26 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:01:26 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 03:01:27 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:01:27 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 03:01:28 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:01:28 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:01:29 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:01:30 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:01:31 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:01:31 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 03:01:31 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:01:32 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:01:33 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:01:33 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 03:01:33 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 03:01:33 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 03:01:33 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+17.06.2024 03:01:33 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 03:01:33 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 03:01:33 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:01:34 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:01:34 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 03:01:34 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:01:35 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:02:40 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+17.06.2024 03:03:26 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+17.06.2024 03:03:38 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:03:39 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:03:48 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+17.06.2024 03:03:54 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:03:55 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:03:56 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:03:57 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:03:58 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:03:59 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:03:59 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-10 y:50 w:24 h:17
+17.06.2024 03:03:59 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-9 y:50 w:24 h:17
+17.06.2024 03:03:59 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-8 y:50 w:24 h:17
+17.06.2024 03:03:59 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:04:00 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:04:01 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:04:02 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:04:03 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:04:04 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:04:05 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:04:06 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:04:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:04:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 03:04:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 03:04:08 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 03:04:08 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 03:04:08 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:04:08 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:04:09 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:04:09 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 03:04:10 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:04:11 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:04:11 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:04:12 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:04:12 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:04:13 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:04:14 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:04:15 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:04:16 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:04:17 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:04:21 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:04:21 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-8 y:50 w:24 h:17
+17.06.2024 03:04:22 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-8 y:50 w:24 h:17
+17.06.2024 03:04:22 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-9 y:50 w:24 h:17
+17.06.2024 03:04:23 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-9 y:50 w:24 h:17
+17.06.2024 03:04:23 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 03:04:23 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:70 w:24 h:17
+17.06.2024 03:04:23 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 03:04:23 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 03:04:23 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:04:23 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:04:24 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:04:24 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:04:24 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 03:04:25 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 03:04:25 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 03:04:26 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 03:04:26 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 03:04:27 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 03:04:27 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:04:28 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:04:29 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:04:29 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 03:04:29 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 03:04:30 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 03:04:30 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 03:04:31 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 03:04:32 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 03:04:33 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 03:04:34 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 03:04:34 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 03:04:35 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+17.06.2024 03:04:35 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:70 w:24 h:17
+17.06.2024 03:04:35 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 03:04:35 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 03:04:35 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+17.06.2024 03:04:35 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 03:04:35 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 03:04:35 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:04:35 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:04:36 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:04:36 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 03:04:37 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+17.06.2024 03:04:37 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+17.06.2024 03:04:37 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:70 w:24 h:17
+17.06.2024 03:04:37 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:70 w:24 h:17
+17.06.2024 03:04:37 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+17.06.2024 03:04:37 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:70 w:24 h:17
+17.06.2024 03:04:37 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:70 w:24 h:17
+17.06.2024 03:04:37 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+17.06.2024 03:04:37 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+17.06.2024 03:04:38 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+17.06.2024 03:04:38 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 03:04:39 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 03:04:40 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 03:04:41 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 03:04:41 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+17.06.2024 03:04:41 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 03:04:42 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 03:04:43 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 03:04:43 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 03:04:44 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 03:04:45 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+17.06.2024 03:04:45 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 03:04:45 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+17.06.2024 03:04:46 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+17.06.2024 03:04:46 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+17.06.2024 03:04:47 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+17.06.2024 03:04:47 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 03:04:48 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 03:04:49 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+17.06.2024 03:04:50 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+18.06.2024 00:46:53 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+18.06.2024 00:47:08 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+18.06.2024 00:47:09 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+18.06.2024 00:47:10 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+18.06.2024 00:47:10 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+18.06.2024 00:47:11 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+18.06.2024 00:47:12 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+18.06.2024 00:47:13 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+18.06.2024 00:47:17 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+18.06.2024 00:47:17 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+18.06.2024 00:47:18 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+18.06.2024 00:47:18 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+18.06.2024 00:47:18 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+18.06.2024 00:47:19 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+18.06.2024 00:47:19 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+18.06.2024 00:47:20 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+18.06.2024 00:47:21 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+18.06.2024 00:47:21 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+18.06.2024 00:47:22 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+18.06.2024 00:47:22 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+18.06.2024 00:47:22 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:70 w:24 h:17
+18.06.2024 00:47:22 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+18.06.2024 00:47:22 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 00:47:23 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 00:47:23 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+18.06.2024 00:47:23 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 00:47:24 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 00:47:24 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+18.06.2024 00:47:24 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:70 w:24 h:17
+18.06.2024 00:47:24 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 00:47:25 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 00:47:25 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+18.06.2024 00:47:26 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+18.06.2024 00:47:27 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+18.06.2024 00:47:27 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+18.06.2024 00:47:28 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+18.06.2024 00:47:28 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+18.06.2024 00:47:28 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+18.06.2024 00:47:28 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+18.06.2024 00:47:28 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+18.06.2024 00:47:28 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 00:47:29 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 00:47:30 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 00:47:58 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+18.06.2024 00:47:58 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:50 w:24 h:17
+18.06.2024 00:47:58 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+18.06.2024 00:47:58 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+18.06.2024 00:47:58 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+18.06.2024 00:48:03 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+18.06.2024 00:48:03 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+18.06.2024 00:48:04 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+18.06.2024 00:48:04 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+18.06.2024 00:48:05 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+18.06.2024 00:48:05 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:70 w:24 h:17
+18.06.2024 00:48:06 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+18.06.2024 00:48:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+18.06.2024 00:48:08 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+18.06.2024 00:48:09 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+18.06.2024 00:48:10 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+18.06.2024 00:48:11 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+18.06.2024 00:48:12 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+18.06.2024 01:07:59 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+18.06.2024 02:20:03 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 02:20:03 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:20:03 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-8 y:50 w:24 h:17
+18.06.2024 02:20:03 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-9 y:50 w:24 h:17
+18.06.2024 02:20:03 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-10 y:50 w:24 h:17
+18.06.2024 02:20:04 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-10 y:50 w:24 h:17
+18.06.2024 02:20:05 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-10 y:50 w:24 h:17
+18.06.2024 02:20:06 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-10 y:50 w:24 h:17
+18.06.2024 02:20:06 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-8 y:50 w:24 h:17
+18.06.2024 02:20:06 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-9 y:50 w:24 h:17
+18.06.2024 02:20:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-10 y:50 w:24 h:17
+18.06.2024 02:20:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+18.06.2024 02:20:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-9 y:50 w:24 h:17
+18.06.2024 02:20:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-8 y:50 w:24 h:17
+18.06.2024 02:20:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:20:08 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:20:08 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+18.06.2024 02:20:09 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:20:09 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:70 w:24 h:17
+18.06.2024 02:20:09 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-4 y:70 w:24 h:17
+18.06.2024 02:20:10 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:20:10 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 02:20:11 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 02:20:11 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+18.06.2024 02:20:12 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+18.06.2024 02:20:13 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+18.06.2024 02:20:13 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 02:20:14 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 02:20:14 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:20:15 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:20:15 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 02:20:16 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 02:20:16 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+18.06.2024 02:20:17 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-5 y:50 w:24 h:17
+18.06.2024 02:20:17 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 02:20:17 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:20:18 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:20:19 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:20:19 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 02:20:20 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 02:20:20 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:20:21 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 02:20:21 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:31:56 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+18.06.2024 02:32:03 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:32:04 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:32:05 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:32:06 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:32:07 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:32:08 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:32:08 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 02:32:09 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 02:32:10 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-6 y:50 w:24 h:17
+18.06.2024 02:32:10 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:32:11 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:32:12 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-7 y:50 w:24 h:17
+18.06.2024 02:33:13 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+18.06.2024 02:34:29 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+18.06.2024 02:51:30 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+18.06.2024 02:51:41 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+19.06.2024 02:05:51 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+19.06.2024 23:53:36 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+20.06.2024 01:29:52 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+20.06.2024 01:44:21 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+21.06.2024 00:17:59 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+21.06.2024 02:14:05 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+21.06.2024 10:53:09 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+22.06.2024 02:36:22 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+22.06.2024 02:37:12 Error;Include /model/0027004277/user2 Load Error 7
+22.06.2024 03:22:23 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+22.06.2024 04:48:03 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+22.06.2024 22:14:07 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+22.06.2024 22:18:24 Error;Element List exceeded
+22.06.2024 22:18:25 Error;Element List exceeded
+22.06.2024 22:18:26 Error;Element List exceeded
+22.06.2024 22:18:27 Error;Element List exceeded
+22.06.2024 22:18:28 Error;Element List exceeded
+22.06.2024 22:18:29 Error;Element List exceeded
+22.06.2024 22:18:30 Error;Element List exceeded
+22.06.2024 22:18:31 Error;Element List exceeded
+22.06.2024 22:18:32 Error;Element List exceeded
+22.06.2024 22:18:33 Error;Element List exceeded
+22.06.2024 22:18:34 Error;Element List exceeded
+22.06.2024 22:18:35 Error;Element List exceeded
+22.06.2024 22:18:36 Error;Element List exceeded
+22.06.2024 22:18:37 Error;Element List exceeded
+22.06.2024 22:18:38 Error;Element List exceeded
+22.06.2024 22:18:39 Error;Element List exceeded
+22.06.2024 22:18:40 Error;Element List exceeded
+22.06.2024 22:18:41 Error;Element List exceeded
+22.06.2024 22:18:42 Error;Element List exceeded
+22.06.2024 22:18:43 Error;Element List exceeded
+23.06.2024 01:27:40 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+23.06.2024 02:46:45 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+23.06.2024 02:47:17 Error;LET Expression: Attempted division by zero in "tmp=raw[8]*10*1000/(R352*100+R351)/R354"
+23.06.2024 02:47:18 Error;LET Expression: Attempted division by zero in "tmp=raw[8]*10*1000/(R352*100+R351)/R354"
+23.06.2024 02:47:19 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+23.06.2024 03:49:22 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+23.06.2024 17:24:48 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+23.06.2024 22:04:42 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+25.06.2024 00:53:36 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+25.06.2024 00:55:24 Error;Char out of screen [after] w:720 h:1320 rect x:5 y:1288 w:13 h:33
+25.06.2024 00:55:24 Error;Char out of screen [after] w:720 h:1320 rect x:18 y:1288 w:8 h:33
+25.06.2024 00:55:24 Error;Char out of screen [after] w:720 h:1320 rect x:26 y:1288 w:8 h:33
+25.06.2024 00:55:24 Error;Char out of screen [after] w:720 h:1320 rect x:34 y:1288 w:13 h:33
+25.06.2024 00:55:24 Error;Char out of screen [after] w:720 h:1320 rect x:47 y:1288 w:9 h:33
+25.06.2024 02:53:20 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+25.06.2024 03:08:27 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-1 y:50 w:24 h:17
+25.06.2024 03:08:27 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+25.06.2024 03:08:28 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+25.06.2024 03:08:29 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+25.06.2024 03:08:30 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+25.06.2024 03:08:31 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+25.06.2024 03:08:32 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+25.06.2024 03:08:33 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+25.06.2024 03:08:34 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+25.06.2024 03:08:35 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+25.06.2024 03:08:35 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:70 w:24 h:17
+25.06.2024 03:08:36 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+25.06.2024 03:08:36 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:70 w:24 h:17
+25.06.2024 03:08:37 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+25.06.2024 03:08:38 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+25.06.2024 03:08:38 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+25.06.2024 03:08:39 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+25.06.2024 03:08:39 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+25.06.2024 03:08:40 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-3 y:50 w:24 h:17
+25.06.2024 03:08:41 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+25.06.2024 03:08:42 Error;Draw BMPZ: Image out of screen w:400 h:140 rect x:-2 y:50 w:24 h:17
+25.06.2024 12:00:55 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+26.06.2024 02:51:03 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+26.06.2024 02:52:03 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+26.06.2024 03:09:48 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+26.06.2024 11:04:46 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+26.06.2024 11:15:51 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+26.06.2024 11:15:59 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+26.06.2024 22:49:58 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+27.06.2024 01:49:20 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+27.06.2024 01:54:27 Error;Par Check 00000000 lcd_functions.c:1817
+26.06.2024 17:54:46 Error;Crashinfo found:Parameter Check adress:00000000 count:1 - lcd_functions.c:1817
+
+27.06.2024 01:54:49 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+27.06.2024 01:54:55 Good;Code 1 File received mapping.bxx cum:5677 pl:44858
+27.06.2024 01:57:05 Good;Code 1 File received shop_vbc2_en.bxx cum:53500 pl:317
+27.06.2024 01:57:05 Good;Code 1 File received voice_01_vbc2_en.bxx cum:3618 pl:44
+27.06.2024 02:02:01 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+27.06.2024 02:02:45 Good;Code 1 File received mapping.bxx cum:13224 pl:44858
+27.06.2024 02:03:08 Good;Code 1 File received shop_vbc2_en.bxx cum:14943 pl:317
+27.06.2024 02:03:08 Good;Code 1 File received voice_01_vbc2_en.bxx cum:3803 pl:44
+27.06.2024 02:05:09 Good;Code 1 File received voice_01_vbc2_en/res cum:63497 pl:21
+27.06.2024 02:05:14 Good;Code 1 File received esc_yge_vbc2_en.bxx cum:20517 pl:271
+27.06.2024 02:05:17 Good;Code 1 File received esc_hobbywing_vbc2_en.bxx cum:10367 pl:49
+27.06.2024 02:05:21 Good;Code 1 File received esc_ztw_vbc2_en.bxx cum:52931 pl:10
+27.06.2024 02:05:21 Good;Code 1 File received rfid_vbc2_en.bxx cum:7362 pl:282
+27.06.2024 02:05:21 Good;Update end error=0
+27.06.2024 02:28:46 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+27.06.2024 02:43:13 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+27.06.2024 03:04:30 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+28.06.2024 00:21:29 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+28.06.2024 01:05:04 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+28.06.2024 03:11:35 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+28.06.2024 03:48:11 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+28.06.2024 03:49:56 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+28.06.2024 22:50:20 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+28.06.2024 23:16:56 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+29.06.2024 01:59:58 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+29.06.2024 03:03:42 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+29.06.2024 11:38:27 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+29.06.2024 23:53:26 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+30.06.2024 10:55:07 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+02.07.2024 00:45:10 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+02.07.2024 12:08:40 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+03.07.2024 00:50:19 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+03.07.2024 11:48:02 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+03.07.2024 22:53:59 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+04.07.2024 01:07:14 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+05.07.2024 23:39:09 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+06.07.2024 17:27:55 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+06.07.2024 20:32:29 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+06.07.2024 20:36:10 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+06.07.2024 21:17:48 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+06.07.2024 21:18:12 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+06.07.2024 21:19:39 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+06.07.2024 21:23:16 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+06.07.2024 21:23:27 Error;LET Expression: Attempted division by zero in "tmp=raw[8]*10*1000/(R352*100+R351)/R354"
+06.07.2024 21:23:28 Error;LET Expression: Attempted division by zero in "tmp=raw[8]*10*1000/(R352*100+R351)/R354"
+07.07.2024 01:54:20 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+07.07.2024 11:57:33 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+07.07.2024 16:26:24 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+07.07.2024 16:31:42 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+09.07.2024 23:38:12 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+09.07.2024 23:43:49 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+10.07.2024 23:33:34 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.07.2024 01:00:14 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+14.07.2024 23:28:30 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+16.07.2024 00:28:24 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+16.07.2024 00:44:26 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+16.07.2024 11:35:47 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+16.07.2024 11:37:37 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+23.07.2024 01:34:44 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+23.07.2024 12:31:53 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+17.08.2024 10:39:57 Error;Include /user/.xml Load Error 7
+17.08.2024 10:39:58 Error;Include /user/.xml Load Error 7
+17.08.2024 11:11:12 Error;Get Parameter: Attempted division by zero in "(calc_flag==0)&&(((batt_capacity_cutoff-batt_mah)*1000/batt_capacity_cutoff)<500)" tag:4 par:17
+17.08.2024 11:11:12 Error;LET Expression: Attempted division by zero in "batt[1]=batt[1]-((batt[5]*batt[1]*batt_mah/batt[1]/10000)-0.5)"
+05.09.2024 01:16:23 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+24.09.2024 13:05:38 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+25.09.2024 01:02:51 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+03.10.2024 15:07:22 Error;Char out of screen [XL700V2 WCLE] w:1600 h:160 rect x:-8 y:100 w:16 h:33
+07.10.2024 13:10:30 Error;Char out of screen [OMP_M7_PINK] w:1600 h:160 rect x:-5 y:100 w:19 h:33
+07.10.2024 13:10:35 Error;Include /model/0027001774/user2 Load Error 7
+07.10.2024 13:49:14 Error;Char out of screen [-] w:608 h:250 rect x:10 y:255 w:8 h:33
+07.10.2024 13:49:14 Error;Char out of screen [Close] w:608 h:250 rect x:23 y:255 w:17 h:33
+07.10.2024 13:49:14 Error;Char out of screen [Close] w:608 h:250 rect x:40 y:255 w:4 h:33
+07.10.2024 13:49:14 Error;Char out of screen [Close] w:608 h:250 rect x:44 y:255 w:13 h:33
+07.10.2024 13:49:14 Error;Char out of screen [Close] w:608 h:250 rect x:57 y:255 w:12 h:33
+07.10.2024 15:04:08 Error;Par Check 00000000 lcd_functions.c:1817
+02.11.2024 15:06:34 Error;Include /model/0027002208/user2 Load Error 7
+02.11.2024 15:09:45 Error;Element List exceeded
+02.11.2024 15:09:46 Error;Element List exceeded
+02.11.2024 15:09:47 Error;Element List exceeded
+31.12.2024 11:47:42 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+31.12.2024 11:48:01 Error;LET Expression: Attempted division by zero in "tmp=raw[8]*10*1000/(R352*100+R351)/R354"
+01.01.2025 03:12:32 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+01.01.2025 04:16:31 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+01.01.2025 21:20:33 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+01.01.2025 21:21:04 Error;Include /model/0027002519/user2 Load Error 7
+01.01.2025 23:15:47 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+02.01.2025 01:14:37 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+02.01.2025 01:19:18 Error;Char out of screen [STEAM AK700] w:1600 h:160 rect x:-2 y:100 w:16 h:33
+02.01.2025 01:19:35 Error;Include /model/0027003235/user2 Load Error 7
+02.01.2025 01:23:13 Error;Draw scr: Subs out of screen w:320 h:510 rect x:130 y:508 w:180 h:50
+02.01.2025 01:25:49 Error;Draw scr: Subs out of screen w:320 h:510 rect x:130 y:508 w:180 h:50
+02.01.2025 03:43:55 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+02.01.2025 12:21:07 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+11.01.2025 12:11:18 Error;Par Check 00000000 lcd_functions.c:1817
+11.01.2025 15:02:38 Error;Element List exceeded
+11.01.2025 15:02:39 Error;Element List exceeded
+11.01.2025 15:02:40 Error;Element List exceeded
+11.01.2025 15:02:41 Error;Element List exceeded
+11.01.2025 15:02:42 Error;Element List exceeded
+11.01.2025 15:02:43 Error;Element List exceeded
+11.01.2025 15:02:44 Error;Element List exceeded
+11.01.2025 15:02:45 Error;Element List exceeded
+11.01.2025 15:02:46 Error;Element List exceeded
+11.01.2025 15:02:47 Error;Element List exceeded
+11.01.2025 15:02:48 Error;Element List exceeded
+11.01.2025 15:02:49 Error;Element List exceeded
+11.01.2025 15:07:14 Error;Element List exceeded
+11.01.2025 15:07:15 Error;Element List exceeded
+11.01.2025 15:07:16 Error;Element List exceeded
+11.01.2025 15:07:17 Error;Element List exceeded
+11.01.2025 15:07:18 Error;Element List exceeded
+11.01.2025 15:07:19 Error;Element List exceeded
+11.01.2025 15:07:20 Error;Element List exceeded
+11.01.2025 15:07:21 Error;Element List exceeded
+11.01.2025 15:07:22 Error;Element List exceeded
+11.01.2025 15:07:23 Error;Element List exceeded
+11.01.2025 15:07:24 Error;Element List exceeded
+11.01.2025 15:07:25 Error;Element List exceeded
+11.01.2025 15:07:26 Error;Element List exceeded
+11.01.2025 15:07:27 Error;Element List exceeded
+11.01.2025 15:07:28 Error;Element List exceeded
+11.01.2025 15:07:29 Error;Element List exceeded
+11.01.2025 15:07:30 Error;Element List exceeded
+11.01.2025 15:07:31 Error;Element List exceeded
+11.01.2025 15:07:32 Error;Element List exceeded
+11.01.2025 15:07:33 Error;Element List exceeded
+11.01.2025 15:07:34 Error;Element List exceeded
+11.01.2025 15:07:35 Error;Element List exceeded
+11.01.2025 15:07:36 Error;Element List exceeded
+11.01.2025 15:07:37 Error;Element List exceeded
+11.01.2025 15:07:38 Error;Element List exceeded
+11.01.2025 15:07:39 Error;Element List exceeded
+11.01.2025 15:07:40 Error;Element List exceeded
+11.01.2025 15:07:41 Error;Element List exceeded
+11.01.2025 15:07:42 Error;Element List exceeded
+11.01.2025 15:07:43 Error;Element List exceeded
+11.01.2025 15:07:44 Error;Element List exceeded
+11.01.2025 15:07:45 Error;Element List exceeded
+11.01.2025 15:07:46 Error;Element List exceeded
+11.01.2025 15:07:47 Error;Element List exceeded
+11.01.2025 15:07:48 Error;Element List exceeded
+11.01.2025 15:07:49 Error;Element List exceeded
+11.01.2025 15:07:50 Error;Element List exceeded
+11.01.2025 15:07:51 Error;Element List exceeded
+11.01.2025 15:07:52 Error;Element List exceeded
+11.01.2025 15:07:53 Error;Element List exceeded
+11.01.2025 15:07:54 Error;Element List exceeded
+11.01.2025 15:07:55 Error;Element List exceeded
+11.01.2025 15:07:56 Error;Element List exceeded
+11.01.2025 15:07:57 Error;Element List exceeded
+11.01.2025 15:07:58 Error;Element List exceeded
+11.01.2025 15:07:59 Error;Element List exceeded
+11.01.2025 15:08:00 Error;Element List exceeded
+11.01.2025 15:08:01 Error;Element List exceeded
+11.01.2025 15:08:02 Error;Element List exceeded
+11.01.2025 15:08:03 Error;Element List exceeded
+11.01.2025 15:08:04 Error;Element List exceeded
+11.01.2025 15:08:05 Error;Element List exceeded
+11.01.2025 15:08:06 Error;Element List exceeded
+11.01.2025 15:08:07 Error;Element List exceeded
+11.01.2025 15:08:08 Error;Element List exceeded
+11.01.2025 15:08:09 Error;Element List exceeded
+11.01.2025 15:08:10 Error;Element List exceeded
+11.01.2025 15:08:11 Error;Element List exceeded
+11.01.2025 15:08:12 Error;Element List exceeded
+11.01.2025 15:08:13 Error;Element List exceeded
+11.01.2025 15:08:14 Error;Element List exceeded
+11.01.2025 15:08:15 Error;Element List exceeded
+11.01.2025 15:08:16 Error;Element List exceeded
+11.01.2025 15:08:17 Error;Element List exceeded
+11.01.2025 15:08:18 Error;Element List exceeded
+11.01.2025 15:08:19 Error;Element List exceeded
+11.01.2025 15:08:20 Error;Element List exceeded
+11.01.2025 15:08:21 Error;Element List exceeded
+11.01.2025 15:08:22 Error;Element List exceeded
+11.01.2025 15:08:23 Error;Element List exceeded
+11.01.2025 15:08:24 Error;Element List exceeded
+11.01.2025 15:08:25 Error;Element List exceeded
+11.01.2025 15:08:26 Error;Element List exceeded
+11.01.2025 15:08:27 Error;Element List exceeded
+11.01.2025 15:08:28 Error;Element List exceeded
+11.01.2025 15:08:29 Error;Element List exceeded
+11.01.2025 15:08:30 Error;Element List exceeded
+11.01.2025 15:08:31 Error;Element List exceeded
+11.01.2025 15:08:32 Error;Element List exceeded
+11.01.2025 15:08:33 Error;Element List exceeded
+11.01.2025 15:08:34 Error;Element List exceeded
+11.01.2025 15:08:35 Error;Element List exceeded
+11.01.2025 15:08:36 Error;Element List exceeded
+11.01.2025 15:08:37 Error;Element List exceeded
+11.01.2025 15:08:38 Error;Element List exceeded
+11.01.2025 15:08:39 Error;Element List exceeded
+11.01.2025 15:08:40 Error;Element List exceeded
+11.01.2025 15:08:41 Error;Element List exceeded
+11.01.2025 15:08:42 Error;Element List exceeded
+11.01.2025 15:08:43 Error;Element List exceeded
+11.01.2025 15:08:44 Error;Element List exceeded
+11.01.2025 15:08:45 Error;Element List exceeded
+11.01.2025 15:08:46 Error;Element List exceeded
+11.01.2025 15:08:47 Error;Element List exceeded
+11.01.2025 15:08:48 Error;Element List exceeded
+11.01.2025 15:08:49 Error;Element List exceeded
+11.01.2025 15:08:50 Error;Element List exceeded
+11.01.2025 15:08:51 Error;Element List exceeded
+11.01.2025 15:08:52 Error;Element List exceeded
+11.01.2025 15:08:53 Error;Element List exceeded
+11.01.2025 15:08:54 Error;Element List exceeded
+11.01.2025 15:08:55 Error;Element List exceeded
+11.01.2025 15:08:56 Error;Element List exceeded
+11.01.2025 15:08:57 Error;Element List exceeded
+11.01.2025 15:08:58 Error;Element List exceeded
+11.01.2025 15:08:59 Error;Element List exceeded
+11.01.2025 15:09:00 Error;Element List exceeded
+11.01.2025 15:09:01 Error;Element List exceeded
+11.01.2025 15:09:02 Error;Element List exceeded
+11.01.2025 15:09:03 Error;Element List exceeded
+11.01.2025 15:09:04 Error;Element List exceeded
+11.01.2025 15:09:05 Error;Element List exceeded
+11.01.2025 15:09:06 Error;Element List exceeded
+11.01.2025 15:09:07 Error;Element List exceeded
+11.01.2025 15:09:08 Error;Element List exceeded
+11.01.2025 15:09:09 Error;Element List exceeded
+11.01.2025 15:09:10 Error;Element List exceeded
+11.01.2025 15:09:11 Error;Element List exceeded
+11.01.2025 15:09:12 Error;Element List exceeded
+11.01.2025 15:09:13 Error;Element List exceeded
+11.01.2025 15:09:14 Error;Element List exceeded
+11.01.2025 15:09:15 Error;Element List exceeded
+11.01.2025 15:09:16 Error;Element List exceeded
+11.01.2025 15:09:17 Error;Element List exceeded
+11.01.2025 15:09:18 Error;Element List exceeded
+11.01.2025 15:09:19 Error;Element List exceeded
+11.01.2025 15:09:20 Error;Element List exceeded
+11.01.2025 15:09:21 Error;Element List exceeded
+11.01.2025 15:09:22 Error;Element List exceeded
+11.01.2025 15:09:23 Error;Element List exceeded
+11.01.2025 15:09:24 Error;Element List exceeded
+11.01.2025 15:09:25 Error;Element List exceeded
+11.01.2025 15:09:26 Error;Element List exceeded
+11.01.2025 15:09:27 Error;Element List exceeded
+11.01.2025 15:09:28 Error;Element List exceeded
+11.01.2025 15:09:29 Error;Element List exceeded
+11.01.2025 15:09:30 Error;Element List exceeded
+11.01.2025 15:09:31 Error;Element List exceeded
+11.01.2025 15:09:32 Error;Element List exceeded
+11.01.2025 15:09:33 Error;Element List exceeded
+11.01.2025 15:09:34 Error;Element List exceeded
+11.01.2025 15:09:35 Error;Element List exceeded
+11.01.2025 15:09:36 Error;Element List exceeded
+11.01.2025 15:09:37 Error;Element List exceeded
+11.01.2025 15:09:38 Error;Element List exceeded
+11.01.2025 15:09:39 Error;Element List exceeded
+11.01.2025 15:09:40 Error;Element List exceeded
+11.01.2025 15:09:41 Error;Element List exceeded
+11.01.2025 15:09:42 Error;Element List exceeded
+11.01.2025 15:09:43 Error;Element List exceeded
+11.01.2025 15:09:44 Error;Element List exceeded
+11.01.2025 15:09:45 Error;Element List exceeded
+11.01.2025 15:09:46 Error;Element List exceeded
+11.01.2025 15:09:47 Error;Element List exceeded
+11.01.2025 15:09:48 Error;Element List exceeded
+11.01.2025 15:09:49 Error;Element List exceeded
+11.01.2025 15:09:50 Error;Element List exceeded
+11.01.2025 15:09:51 Error;Element List exceeded
+11.01.2025 15:09:52 Error;Element List exceeded
+11.01.2025 15:09:53 Error;Element List exceeded
+11.01.2025 15:09:54 Error;Element List exceeded
+11.01.2025 15:09:55 Error;Element List exceeded
+11.01.2025 15:09:56 Error;Element List exceeded
+11.01.2025 15:09:57 Error;Element List exceeded
+11.01.2025 15:09:58 Error;Element List exceeded
+11.01.2025 15:09:59 Error;Element List exceeded
+11.01.2025 15:10:00 Error;Element List exceeded
+11.01.2025 15:10:01 Error;Element List exceeded
+11.01.2025 15:10:02 Error;Element List exceeded
+11.01.2025 15:10:03 Error;Element List exceeded
+11.01.2025 15:10:04 Error;Element List exceeded
+11.01.2025 15:10:05 Error;Element List exceeded
+11.01.2025 15:10:06 Error;Element List exceeded
+11.01.2025 15:10:07 Error;Element List exceeded
+11.01.2025 15:10:08 Error;Element List exceeded
+11.01.2025 15:10:09 Error;Element List exceeded
+11.01.2025 15:10:10 Error;Element List exceeded
+11.01.2025 15:10:11 Error;Element List exceeded
+11.01.2025 15:10:12 Error;Element List exceeded
+11.01.2025 15:10:13 Error;Element List exceeded
+11.01.2025 15:10:14 Error;Element List exceeded
+11.01.2025 15:10:15 Error;Element List exceeded
+11.01.2025 15:10:16 Error;Element List exceeded
+11.01.2025 15:10:17 Error;Element List exceeded
+11.01.2025 15:10:18 Error;Element List exceeded
+11.01.2025 15:10:19 Error;Element List exceeded
+11.01.2025 15:10:20 Error;Element List exceeded
+11.01.2025 15:10:21 Error;Element List exceeded
+11.01.2025 15:10:22 Error;Element List exceeded
+11.01.2025 15:10:23 Error;Element List exceeded
+11.01.2025 15:10:24 Error;Element List exceeded
+11.01.2025 15:10:25 Error;Element List exceeded
+11.01.2025 15:10:26 Error;Element List exceeded
+11.01.2025 15:10:27 Error;Element List exceeded
+11.01.2025 15:10:28 Error;Element List exceeded
+11.01.2025 15:10:29 Error;Element List exceeded
+11.01.2025 15:10:30 Error;Element List exceeded
+11.01.2025 15:10:31 Error;Element List exceeded
+11.01.2025 15:10:32 Error;Element List exceeded
+11.01.2025 15:10:33 Error;Element List exceeded
+11.01.2025 15:10:34 Error;Element List exceeded
+11.01.2025 15:10:35 Error;Element List exceeded
+11.01.2025 15:10:36 Error;Element List exceeded
+11.01.2025 15:10:37 Error;Element List exceeded
+11.01.2025 15:10:38 Error;Element List exceeded
+11.01.2025 15:10:39 Error;Element List exceeded
+11.01.2025 15:10:40 Error;Element List exceeded
+11.01.2025 15:10:41 Error;Element List exceeded
+11.01.2025 15:10:42 Error;Element List exceeded
+11.01.2025 15:10:43 Error;Element List exceeded
+11.01.2025 15:10:44 Error;Element List exceeded
+11.01.2025 15:10:45 Error;Element List exceeded
+11.01.2025 15:10:46 Error;Element List exceeded
+11.01.2025 15:10:47 Error;Element List exceeded
+11.01.2025 15:10:48 Error;Element List exceeded
+11.01.2025 15:10:49 Error;Element List exceeded
+11.01.2025 15:10:50 Error;Element List exceeded
+11.01.2025 15:10:51 Error;Element List exceeded
+11.01.2025 15:10:52 Error;Element List exceeded
+11.01.2025 15:10:53 Error;Element List exceeded
+11.01.2025 15:10:54 Error;Element List exceeded
+11.01.2025 15:10:55 Error;Element List exceeded
+11.01.2025 15:10:56 Error;Element List exceeded
+11.01.2025 15:10:57 Error;Element List exceeded
+11.01.2025 15:10:58 Error;Element List exceeded
+11.01.2025 15:10:59 Error;Element List exceeded
+11.01.2025 15:11:00 Error;Element List exceeded
+11.01.2025 15:11:01 Error;Element List exceeded
+11.01.2025 15:11:02 Error;Element List exceeded
+11.01.2025 15:11:03 Error;Element List exceeded
+11.01.2025 15:11:04 Error;Element List exceeded
+11.01.2025 15:11:05 Error;Element List exceeded
+11.01.2025 15:11:06 Error;Element List exceeded
+11.01.2025 15:11:07 Error;Element List exceeded
+11.01.2025 15:11:08 Error;Element List exceeded
+11.01.2025 15:11:09 Error;Element List exceeded
+11.01.2025 15:11:10 Error;Element List exceeded
+11.01.2025 15:11:11 Error;Element List exceeded
+11.01.2025 15:11:12 Error;Element List exceeded
+11.01.2025 15:11:13 Error;Element List exceeded
+11.01.2025 15:11:14 Error;Element List exceeded
+11.01.2025 15:11:15 Error;Element List exceeded
+11.01.2025 15:11:16 Error;Element List exceeded
+11.01.2025 15:11:17 Error;Element List exceeded
+11.01.2025 15:11:18 Error;Element List exceeded
+11.01.2025 15:11:19 Error;Element List exceeded
+11.01.2025 15:11:20 Error;Element List exceeded
+11.01.2025 15:11:21 Error;Element List exceeded
+11.01.2025 15:11:22 Error;Element List exceeded
+11.01.2025 15:11:23 Error;Element List exceeded
+11.01.2025 15:11:24 Error;Element List exceeded
+11.01.2025 15:11:25 Error;Element List exceeded
+11.01.2025 15:11:26 Error;Element List exceeded
+11.01.2025 15:11:27 Error;Element List exceeded
+11.01.2025 15:11:28 Error;Element List exceeded
+11.01.2025 15:11:29 Error;Element List exceeded
+11.01.2025 15:11:30 Error;Element List exceeded
+11.01.2025 15:11:31 Error;Element List exceeded
+11.01.2025 15:11:32 Error;Element List exceeded
+11.01.2025 15:11:33 Error;Element List exceeded
+11.01.2025 15:11:34 Error;Element List exceeded
+11.01.2025 15:11:35 Error;Element List exceeded
+11.01.2025 15:11:36 Error;Element List exceeded
+11.01.2025 15:11:37 Error;Element List exceeded
+11.01.2025 15:11:38 Error;Element List exceeded
+20.01.2025 01:20:25 Good;IP Adress: 192.168.31.157 Netmask: 255.255.255.0
+20.01.2025 23:30:51 Good;IP Adress: 192.168.31.157 Netmask: 255.255.255.0
+20.01.2025 23:31:22 Good;Code 1 File received mapping.bxx cum:10637 pl:25472
+20.01.2025 23:32:19 Good;Code 1 File received boot.bxx cum:43791 pl:123
+20.01.2025 23:33:54 Good;Code 1 File received vbar_basic_vbc2_en.bxx cum:47265 pl:4518
+20.01.2025 23:38:59 Good;IP Adress: 192.168.31.157 Netmask: 255.255.255.0
+21.01.2025 00:07:45 Good;Code 1 File received mapping.bxx cum:39487 pl:25472
+21.01.2025 00:08:36 Good;Code 1 File received boot.bxx cum:47899 pl:123
+21.01.2025 00:10:05 Good;Code 1 File received vbar_basic_vbc2_en.bxx cum:13584 pl:4518
+21.01.2025 00:15:03 Good;IP Adress: 192.168.31.157 Netmask: 255.255.255.0
+21.01.2025 00:37:38 Good;IP Adress: 192.168.31.157 Netmask: 255.255.255.0
+21.01.2025 00:37:51 Good;Code 1 File received mapping.bxx cum:62563 pl:25472
+21.01.2025 00:38:41 Good;Code 1 File received boot.bxx cum:4197 pl:123
+21.01.2025 00:39:59 Good;Code 1 File received vbar_basic_vbc2_en.bxx cum:11657 pl:4518
+21.01.2025 00:44:57 Good;IP Adress: 192.168.31.157 Netmask: 255.255.255.0
+21.01.2025 00:46:47 Good;IP Adress: 192.168.31.157 Netmask: 255.255.255.0
+21.01.2025 12:02:53 Good;IP Adress: 192.168.31.157 Netmask: 255.255.255.0
+21.01.2025 23:17:01 Good;IP Adress: 192.168.31.157 Netmask: 255.255.255.0
+23.01.2025 02:25:00 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+23.01.2025 02:27:46 Error;LET Expression: Attempted division by zero in "tmp=(raw[4]*10*1000/(R352*100+R351)/R354)+0.5"
+23.01.2025 02:27:51 Error;Char out of screen [-] w:608 h:250 rect x:10 y:255 w:8 h:33
+23.01.2025 02:27:51 Error;Char out of screen [Close] w:608 h:250 rect x:23 y:255 w:17 h:33
+23.01.2025 02:27:51 Error;Char out of screen [Close] w:608 h:250 rect x:40 y:255 w:4 h:33
+23.01.2025 02:27:51 Error;Char out of screen [Close] w:608 h:250 rect x:44 y:255 w:13 h:33
+23.01.2025 02:27:51 Error;Char out of screen [Close] w:608 h:250 rect x:57 y:255 w:12 h:33
+23.01.2025 02:28:48 Error;LET Expression: Attempted division by zero in "tmp=(raw[4]*10*1000/(R352*100+R351)/R354)+0.5"
+23.01.2025 02:28:49 Error;LET Expression: Attempted division by zero in "tmp=(raw[4]*10*1000/(R352*100+R351)/R354)+0.5"
+25.01.2025 02:26:45 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+25.01.2025 02:26:48 Error;LET Expression: Attempted division by zero in "tmp=(raw[4]*10*1000/(R352*100+R351)/R354)+0.5"
+25.01.2025 02:53:38 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+25.01.2025 05:44:53 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+25.01.2025 05:49:54 Good;Code 10 Action Status 1
+25.01.2025 05:49:59 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+25.01.2025 05:55:01 Good;Code 10 Action Status 1
+25.01.2025 05:55:06 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+25.01.2025 06:00:07 Good;Code 10 Action Status 1
+25.01.2025 06:00:12 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+25.01.2025 06:05:13 Good;Code 10 Action Status 1
+25.01.2025 06:05:18 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+25.01.2025 06:10:19 Good;Code 10 Action Status 1
+25.01.2025 06:10:24 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+25.01.2025 06:15:25 Good;Code 10 Action Status 1
+25.01.2025 06:15:30 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+25.01.2025 11:38:06 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+25.01.2025 23:46:15 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+16.02.2025 14:45:48 Error;LET Expression: Attempted division by zero in "tmp=(raw[4]*10*1000/(R352*100+R351)/R354)+0.5"
+16.02.2025 14:45:49 Error;LET Expression: Attempted division by zero in "tmp=(raw[4]*10*1000/(R352*100+R351)/R354)+0.5"
+16.02.2025 15:22:48 Error;Include /user/.xml Load Error 7
+16.02.2025 15:22:50 Error;Include /user/.xml Load Error 7
+15.03.2025 21:33:09 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+15.03.2025 21:33:14 Error;LET Expression: Attempted division by zero in "tmp=(raw[4]*10*1000/(R352*100+R351)/R354)+0.5"
+15.03.2025 21:40:24 Error;Char out of screen [-] w:608 h:250 rect x:10 y:255 w:8 h:33
+15.03.2025 21:40:24 Error;Char out of screen [Close] w:608 h:250 rect x:23 y:255 w:17 h:33
+15.03.2025 21:40:24 Error;Char out of screen [Close] w:608 h:250 rect x:40 y:255 w:4 h:33
+15.03.2025 21:40:24 Error;Char out of screen [Close] w:608 h:250 rect x:44 y:255 w:13 h:33
+15.03.2025 21:40:24 Error;Char out of screen [Close] w:608 h:250 rect x:57 y:255 w:12 h:33
+16.03.2025 00:02:21 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+16.03.2025 01:03:37 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+21.03.2025 23:15:59 Good;IP Adress: 192.168.31.156 Netmask: 255.255.255.0
+11.04.2025 17:55:41 Error;LET Expression: Attempted division by zero in "tmp=(raw[4]*10*1000/(R352*100+R351)/R354)+0.5"
+17.04.2025 19:20:19 Error;Char out of screen [screens.] w:640 h:4224 rect x:10 y:4222 w:12 h:33
+17.04.2025 19:20:19 Error;Char out of screen [screens.] w:640 h:4224 rect x:22 y:4222 w:12 h:33
+17.04.2025 19:20:19 Error;Char out of screen [screens.] w:640 h:4224 rect x:34 y:4222 w:8 h:33
+17.04.2025 19:20:19 Error;Char out of screen [screens.] w:640 h:4224 rect x:42 y:4222 w:13 h:33
+17.04.2025 19:20:19 Error;Char out of screen [screens.] w:640 h:4224 rect x:55 y:4222 w:13 h:33
+18.04.2025 14:05:42 Info;User:Stick Problem detected
+18.04.2025 14:06:58 Error;LET Expression: Attempted division by zero in "tmp=(raw[4]*10*1000/(R352*100+R351)/R354)+0.5"
+18.04.2025 14:06:59 Error;LET Expression: Attempted division by zero in "tmp=(raw[4]*10*1000/(R352*100+R351)/R354)+0.5"
+18.04.2025 14:09:57 Info;User:Stick Problem detected
+18.04.2025 14:10:43 Error;LET Expression: Attempted division by zero in "tmp=(raw[4]*10*1000/(R352*100+R351)/R354)+0.5"
+18.04.2025 14:10:44 Error;LET Expression: Attempted division by zero in "tmp=(raw[4]*10*1000/(R352*100+R351)/R354)+0.5"
+18.04.2025 14:51:05 Info;User:Stick Problem detected
+18.04.2025 15:07:57 Info;User:Stick Problem detected
+19.04.2025 13:15:51 Info;User:Stick Problem detected
+19.04.2025 13:21:27 Info;User:Stick Problem detected
+19.04.2025 13:25:48 Info;User:Stick Problem detected
+19.04.2025 13:26:27 Info;User:Stick Problem detected
+19.04.2025 13:29:28 Good;IP Adress: 192.168.5.8 Netmask: 255.255.255.0
+19.04.2025 13:55:46 Info;User:Stick Problem detected
+19.04.2025 13:55:52 Good;IP Adress: 192.168.5.8 Netmask: 255.255.255.0
+-------------------- System start Version:2.1 pl:123 Reset:02
+19.04.2025 14:03:00 Info;User:Stick Problem detected
+19.04.2025 14:03:06 Good;IP Adress: 192.168.5.8 Netmask: 255.255.255.0
+19.04.2025 14:04:33 Info;User:Stick Problem detected
+19.04.2025 14:04:39 Good;IP Adress: 192.168.5.8 Netmask: 255.255.255.0
+19.04.2025 14:05:17 Good;Code 1 File received mapping.bxx cum:31936 pl:28545
+19.04.2025 14:05:17 Good;File delete welcome_vbc2_en
+19.04.2025 14:05:17 Good;Update end error=0
+19.04.2025 14:05:28 Good;Update end error=0
+19.04.2025 14:12:00 Good;IP Adress: 192.168.5.8 Netmask: 255.255.255.0
+-------------------- System start Version:2.1 pl:123 Reset:03
+19.04.2025 14:12:27 Info;User:Stick Problem detected
+19.04.2025 14:12:33 Good;IP Adress: 192.168.5.8 Netmask: 255.255.255.0
+19.04.2025 17:43:25 Info;User:Stick Problem detected
+19.04.2025 17:43:31 Good;IP Adress: 192.168.5.8 Netmask: 255.255.255.0

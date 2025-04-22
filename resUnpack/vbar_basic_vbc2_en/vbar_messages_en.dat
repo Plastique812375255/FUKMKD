@@ -1,0 +1,123 @@
+0;1;Good Health Message (10sec)
+1;1;Coldstart
+2;4;Warmstart
+3;1;Calibration Finished
+4;2;Autotrim activated
+5;2;Bluetooth Module Detected
+6;2;Bluetooth Module Init OK
+7;3;Bluetooth Module Init Error
+8;2;Antenna Switched
+9;4;EEprom Write Queue overrun
+10;4;Low Voltage of 3.3V Rail
+11;4;Low Voltage of 2.5V Rail
+12;3;Reset Reason: Watchdog
+13;3;Reset Reason: External
+14;1;Reset Reason: Power On
+15;1;Bank 1 Loaded
+16;1;Bank 2 Loaded
+17;1;Bank 3 Loaded
+18;1;Bank 4 Loaded
+20;4;Sensor Connection broken
+21;3;Sensor Data Checksum Error
+22;3;Init Failed, retrying...
+23;3;Check Sum Error on PC Data
+24;4;Input Queue Overrun on RC Data
+25;4;Input Queue Overrun on RC Timer
+26;4;Single Line Reciver delivers invalid input
+27;3;The Cyclic Ring is active
+28;2;The Cyclic Ring is touched
+29;4;Invalid Satellite Packet Size
+30;4;RC Input of Pitch Channel missed
+31;4;RC Input of Aileron Channel missed
+32;4;RC Input of Elevator Channel missed
+33;4;RC Input of Tail Channel missed
+34;4;RC Input of AUX Channel missed
+35;2;Modem Chip Resynchronization
+36;1;Firmware Update
+37;3;Static Hit
+38;3;RC Input Packets lost
+39;4;RC Failsafe activated
+40;4;RC Input of Channel 1 out of Range
+41;2;RC Input of Channel 2 out of Range
+42;4;RC Input of Channel 3 out of Range
+43;4;RC Input of Channel 4 out of Range
+44;4;RC Input of Channel 5 out of Range
+45;4;RC Input of Channel 6 out of Range
+50;2;Testmode Started
+51;2;Testmode Timeout
+52;2;Testmode Ended
+53;1;Backup not ready
+55;4;Satellite Data Framing Error
+56;2;External Gyro Sensor detected and working
+57;2;External Gyro Sensor error
+60;2;Raised Vibration Level
+61;3;High Vibration Level
+62;4;Extreme Vibration Level
+70;3;Ambiguous Value on Aileron RC Channel at Init
+71;3;Ambiguous Value on Elevator RC Channel at Init
+72;3;Ambiguous Value on Tail RC Channel at Init
+73;4;Ambiguous Value on Aileron Sensor at Init
+74;4;Ambiguous Value on Elevator Sensor at Init
+75;4;Ambiguous Value on Tail Sensor at Init
+76;4;Aileron Sensor Value out of Range
+77;4;Elevator Sensor Value out of Range
+78;3;Aileron Sensor shows no actual Signal
+79;3;Elevator Sensor shows no actual Signal
+80;3;Tail Sensor shows no actual Signal
+81;3;Supply Voltage dropped below 4.5V
+82;4;Supply Voltage dropped below 4.0V
+83;4;Supply Voltage dropped below 3.5V
+84;3;IMU Sensor delivers no data
+85;4;IMU Stopped delivering Data
+86;4;IMU Data delivers all zeros
+87;4;IMU Sensor fail
+88;4;Horizontal calibration error
+89;4;Horizontal calibration done
+90;3;Single Line Polarity changed 0
+91;3;Single Line Polarity changed 1
+92;3;Single Line Glitched
+93;2;Initializing with virtual Z Axis
+94;3;IMU Sensor Z Axis hangs
+95;2;IMU Sensor Z Axis released
+96;4;Flash memory access failed
+97;4;Telemetry Overcurrent
+100;2;Quick Programming Mode entered (3 Pitch bumps)
+101;2;Temperature Calibration has been started
+102;2;Temperature Calibration has been finished OK
+103;2;Temperature Calibration has been finished with STRING
+110;2;Rescue Start
+112;2;Rescue End
+113;2;Rescue Pilot Oversteer
+114;2;Beginner/Trainer Mode Start
+115;2;Beginner/Trainer Mode End
+120;2;Governor Stop
+121;2;Governor Idle Land
+122;2;Governor Idle
+123;2;Governor in Motortune Mode
+124;2;Governor Active
+130;2;Governor Full Throttle
+131;2;Governor Sensor no Signal
+132;4;Governor Sensor Signal Failure
+133;2;Governor is at Low Throttle Limit
+134;2;Governor input contains glitches
+135;1;Motorswitch Motor Off
+136;1;Motorswitch Idle Land
+137;1;Motorswitch Idle Bailout
+138;1;Motorswitch Motortune
+139;1;Motorswitch Motor On
+140;1;Max Limit Sensor Aileron
+141;1;Max Limit Sensor Elevator
+142;1;Max Limit Sensor Tail
+143;1;Min Limit Sensor Aileron
+144;1;Min Limit Sensor Elevator
+145;1;Min Limit Sensor Tail
+150;2;Radio synchronisation lost
+151;2;Radio synchronisation ok
+152;4;Parameter Eprom Access Error
+153;4;Parameter Eprom Access Error
+154;4;Parameter Eprom Access Error
+155;1;USB Serial Connection activated
+156;1;USB Serial Connection deactivated
+171;1;Highrange Sensor Query Error
+172;1;Highrange Sensor Event Triggered
+255;0;---------- Vbar Connected -----------
