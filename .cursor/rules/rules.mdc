@@ -9,3 +9,4 @@ alwaysApply: true
 - You can @ files here
 - You can use markdown but dont have to
 不允许修改sys文件夹下的任何东西
+不允许修改resUnpack文件夹下任何东西
